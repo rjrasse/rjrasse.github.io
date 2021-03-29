@@ -1,4 +1,4 @@
-##  RAFAEL RASSE   <img align="right" src="20161002_122959.jpg" width="125" height="125" >
+##  RAFAEL RASSE   <img align="right" src="20161002_122959.jpg" width="125" height="125" border: 1px solid blue; >
 
 
 ## Major topic of interest 
