@@ -17,18 +17,19 @@
  - Cariaco Basin Time Series. Climatic and Oceanographic Changes in the system of the Cariaco Basin. Sponsor: National Fund for Science and Technology (FONACIT-MCTI No 201200404). PIs:I. Astor (PI), T. Pérez (Co-PI), and others. Award Period: 2012-2015. [Website](http://www.imars.usf.edu/cariaco) 
 
 ## Interdisciplinary Graduate Courses (> 40 credits, Period: 2007-2012)
+
  - ***Earth Science*** 
-       - Introduction to Environmental Sciences 
-       - Climate Change 
-       - Surface Ocean Lower Atmosphere Summer School 
-       - Atmospheric Chemistry 
-       - Effects of Global Change on the Terrestrial Biosphere 
-       - Chemical, Physical, and Biological Oceanography 
-       - Ocean Colour/Satellite Observatories 
-       - Moored Observatories 
-       - Ecological Modelling
-       - Ocean Data Management 
-       - Carbon Cycle/Ocean Acidification
+   - Introduction to Environmental Sciences 
+   - Climate Change 
+   - Surface Ocean Lower Atmosphere Summer School 
+   - Atmospheric Chemistry 
+   - Effects of Global Change on the Terrestrial Biosphere 
+   - Chemical, Physical, and Biological Oceanography 
+   - Ocean Colour/Satellite Observatories 
+   - Moored Observatories 
+   - Ecological Modelling
+   - Ocean Data Management 
+   - Carbon Cycle/Ocean Acidification
        
   - ***Chemistry***
        - Analytical Chemistry
