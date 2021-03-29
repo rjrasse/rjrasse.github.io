@@ -1,5 +1,5 @@
-## <font size="15"> RAFAEL RASSE
-## <font size="13"> Major topic of interest
+## <font size="13"> RAFAEL RASSE
+## <font size="12"> Major topic of interest
 <div style="text-align: justify"> Investigating the biogeochemical cycles of carbon and nitrogen in oxygen minimum zones (OMZs)  and anoxic basins by merging conventional and ground-breaking approaches of quantification.
 
 ## <font size="13"> Principal Career Goal
@@ -8,7 +8,7 @@
 
 You can use the [article1](https://article1)
 
-*[article1](https://article1)
+[article1](https://article1)
 [article1](https://article1)
 [article1](https://article1)
 
