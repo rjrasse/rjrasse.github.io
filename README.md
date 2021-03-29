@@ -5,7 +5,7 @@
 Investigating the biogeochemical cycles of carbon and nitrogen in oxygen minimum zones (OMZs)  and anoxic basins by merging conventional and ground-breaking approaches of quantification.
 
 ## Principal career goal
-My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon and nitrogen in  world OMZs to ultimately contribute to refine their mechanistic predictions.  
+My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon, oxygen and nitrogen in the main world OMZs to ultimately contribute to refine their mechanistic predictions.  
 
 
 You can use the [article1](https://article1)
