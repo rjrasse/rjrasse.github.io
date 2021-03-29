@@ -2,10 +2,10 @@
 
 
 ## Major topic of interest 
-> <div style="text-align: right"> Investigating the biogeochemical cycles of carbon and nitrogen in tropical oxygen minimum zones (OMZs) and anoxic basins by merging conventional and ground-breaking approaches of quantification. </div>
+> <div style="text-align: justify"> Investigating the biogeochemical cycles of carbon and nitrogen in tropical oxygen minimum zones (OMZs) and anoxic basins by merging conventional and ground-breaking approaches of quantification. </div>
 
 ## Principal Career Goal
-> My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon, oxygen, and nitrogen in the world OMZs to ultimately  contribute to refine their mechanistic predictions.  
+> <div style="text-align: justify"> My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon, oxygen, and nitrogen in the world OMZs to ultimately  contribute to refine their mechanistic predictions. </div>
 
 ## Multidisciplinary individual projects 
  - Marie Sklodowska-Curie Fellowship. Key factors driving particulate organic matter fluxes and related dinitrogen losses in the main anoxic oxygen minimum zones of the world oceans (Noceanic). Award Period: 2019-2021. PI: R. Rasse
