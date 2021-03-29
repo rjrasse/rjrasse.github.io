@@ -1,6 +1,6 @@
 ## Welcome to my webpage 
 ## Topics of research
-# My field of interest is investigating the biogeochemical cycles of carbon and nitrogen in the main Earth’s reservoirs by merging my multidisciplinary skills and knowledge with conventional and ground-breaking approaches of quantification.  
+My field of interest is investigating the biogeochemical cycles of carbon and nitrogen in the main Earth’s reservoirs bycombining conventional and ground-breaking approaches of quantification.  
 
 
 You can use the [article1](https://article1)
