@@ -16,6 +16,9 @@
  - Nitrogen cycling in Latin America: drivers, impacts and vulnerabilities (CRN 3005). Sponsor: Inter-American for Global Change Research. PIs: J. Ometto (PI), T. Pérez (Co-PI), and others. Award Period: 2012-2017. [Website](http://nitrogen.ccst.inpe.br/)  
  - Cariaco Basin Time Series. Climatic and Oceanographic Changes in the system of the Cariaco Basin. Sponsor: National Fund for Science and Technology (FONACIT-MCTI No 201200404). PIs:I. Astor (PI), T. Pérez (Co-PI), and others. Award Period: 2012-2015. [Website](http://www.imars.usf.edu/cariaco) 
 
+## Interdisciplinary graduated Courses (> 40 credits)
+> Introduction to Environmental Sciences; Climate Change; Surface Ocean Lower Atmosphere Summer School; Atmospheric Chemistry; Effects of Global Change on the Terrestrial Biosphere; Analytical Chemistry; Advanced Inorganic Chemistry; Chemical Kinetics; Chemical Thermodynamics; Chemical, Physical and Biological Oceanography; Ocean Colour/Satellite Observatories; Moored Observatories; Ecological Modelling; Ocean Data Management; Carbon Cycle/Ocean Acidification.
+
 
 
 
