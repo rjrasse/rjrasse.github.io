@@ -1,11 +1,9 @@
 ## RAFAEL RASSE
-
-
 ## Major topic of interest
 Investigating the biogeochemical cycles of carbon and nitrogen in oxygen minimum zones (OMZs)  and anoxic basins by merging conventional and ground-breaking approaches of quantification.
 
-## Principal career goal
-My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon, oxygen and nitrogen in the main world OMZs to ultimately contribute to refine their mechanistic predictions.  
+## Principal Career Goal
+My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon and nitrogen in  world OMZs to ultimately contribute to refine their mechanistic predictions.  
 
 
 You can use the [article1](https://article1)
@@ -21,8 +19,19 @@ You can use the [article1](https://article1)
  
 ### align="left"
 
+## Pluridisciplinary Research-Programmes
+REFINE. Robots explore Plankton-driven fluxes in the marine twilight zones. PI: Hervé Claustre. Award Period: 2019-2022. https://erc-refine.eu/new/
+
+Nitrogen cycling in Latin America: drivers, impacts and vulnerabilities (CRN 3005). Sponsor: Inter-American for Global Change Research. PIs: Dr J. Ometto (PI), Dr T. Pérez (Co-PI) and others. Award Period: 2012-2017. http://www.iai.int/?p=2680
+
+Cariaco Basin Time Series. Climatic and Oceanographic Changes in the system of the Cariaco Basin. Sponsor: National Fund for Science and Technology (FONACIT-MCTI No 201200404). PIs: Dr Irene Astor (PI), Dr T. Pérez (Co-PI) and
+others. Award Period: 2012-2015
+
+
+
 | Option | Description       |  <img src="20161002_122959.jpg" width="100" height="100" > |
 | --------------------- |:---------------------------:| -----------:|
+
 
 
 <table border="0">
