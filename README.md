@@ -9,7 +9,7 @@ You can use the [article1](https://article1)
 
 ### competence
 - first skill 
-- second one  ![ALEX](20161002_122959.jpg)
+- second one  ![ALEX](20161002_122959.jpg =100x100)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -19,7 +19,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
+### | width=100x100)
 - Bulleted
 - List
 
