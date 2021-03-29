@@ -18,7 +18,6 @@
 
 ## Interdisciplinary Graduate Courses (> 40 credits, Period: 2007-2012)
  - ***Earth Science*** 
- 
        - Introduction to Environmental Sciences 
        - Climate Change 
        - Surface Ocean Lower Atmosphere Summer School 
