@@ -1,4 +1,4 @@
-##  RAFAEL RASSE
+##  RAFAEL RASSE   <img align="left" src="20161002_122959.jpg" width="150" height="150" >
 
 
 ## Major topic of interest 
