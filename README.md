@@ -1,6 +1,6 @@
-## Welcome to my webpage 
+## RAFAEL RASSE
 ## General topics of research
-My field of interest is investigating the biogeochemical cycles of carbon and nitrogen in the main Earth’s reservoirs 
+Biogeochemical cycles of carbon and nitrogen in the main Earth’s reservoirs 
 
 ## Current topic of interest
 I investigate the biogeochemical cycles of carbon and nitrogen in oxygen minimum zones and anoxic basins by merging conventional and ground-breaking approaches of quantification.
