@@ -2,7 +2,7 @@
 
 
 ## Major topic of interest 
-> Investigating the biogeochemical cycles of carbon and nitrogen in tropical oxygen minimum zones (OMZs) and anoxic basins by merging conventional and ground-breaking approaches of quantification.
+> <div style="text-align: right"> Investigating the biogeochemical cycles of carbon and nitrogen in tropical oxygen minimum zones (OMZs) and anoxic basins by merging conventional and ground-breaking approaches of quantification. </div>
 
 ## Principal Career Goal
 > My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon, oxygen, and nitrogen in the world OMZs to ultimately  contribute to refine their mechanistic predictions.  
