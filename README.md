@@ -1,5 +1,5 @@
-## <font size="13"> RAFAEL RASSE
-## <font size="12"> Major topic of interest
+##  RAFAEL RASSE
+## Major topic of interest
  
 <div style="text-align: justify"> Investigating the biogeochemical cycles of carbon and nitrogen in oxygen minimum zones (OMZs)  and anoxic basins by merging conventional and ground-breaking approaches of quantification.
 
@@ -10,7 +10,7 @@
 
 ## Multidisciplinary individual projects 
  - Marie Sklodowska-Curie Fellowship. Key factors driving particulate organic matter fluxes and related dinitrogen losses in the main anoxic oxygen minimum zones of the world oceans (Noceanic). Award Period: 2019-2021
- - Royal society. Autonomous observations of oceanic carbon fluxes in the oxygen minimum zones (Atlantic OMZ). Award Period: 2016-2018!
+ - Royal society. Autonomous observations of oceanic carbon fluxes in the oxygen minimum zones (Atlantic OMZ). Award Period: 2016-2018
 
 
 
