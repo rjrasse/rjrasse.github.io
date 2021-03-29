@@ -1,12 +1,12 @@
-## <font size="13"> RAFAEL RASSE
-## <font size="12"> Major topic of interest
+## <div font size="13"> RAFAEL RASSE
+## <div font size="12"> Major topic of interest
 <div style="text-align: justify"> Investigating the biogeochemical cycles of carbon and nitrogen in oxygen minimum zones (OMZs)  and anoxic basins by merging conventional and ground-breaking approaches of quantification.
 
 ## Principal Career Goal
 > <div style="text-align: justify"> My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon, oxygen, and nitrogen in the world OMZs to ultimately  contribute to refine their mechanistic predictions.  
 
 
-You can use the [article1](https://article1)
+[article1](https://article1)
 
 [article1](https://article1)
 [article1](https://article1)
@@ -17,7 +17,7 @@ You can use the [article1](https://article1)
 - second one <img align="left" src="20161002_122959.jpg" width="100" height="100" >
 ######- second one <img style="float: right;" src="20161002_122959.jpg" width="100" height="100" >
  
-### align="left"
+
 
 ## Pluridisciplinary Research-Programmes
  - REFINE. Robots explore Plankton-driven fluxes in the marine twilight zones. PI: Hervé Claustre. Award Period: 2019-2022. https://erc-refine.eu/new/ 
