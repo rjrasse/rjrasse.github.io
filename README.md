@@ -1,6 +1,6 @@
 ##  RAFAEL RASSE
 ## Major topic of interest 
-Investigating the biogeochemical cycles of carbon and nitrogen in oxygen minimum zones (OMZs)  and anoxic basins by merging conventional and ground-breaking approaches of quantification.
+> Investigating the biogeochemical cycles of carbon and nitrogen in oxygen minimum zones (OMZs)  and anoxic basins by merging conventional and ground-breaking approaches of quantification.
 
 ## Principal Career Goal
 > My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon, oxygen, and nitrogen in the world OMZs to ultimately  contribute to refine their mechanistic predictions.  
@@ -10,9 +10,9 @@ Investigating the biogeochemical cycles of carbon and nitrogen in oxygen minimum
  - Royal society. Autonomous observations of oceanic carbon fluxes in the oxygen minimum zones (Atlantic OMZ). Award Period: 2016-2018
 
 ## Pluridisciplinary Research-Programmes
- - REFINE. Robots explore Plankton-driven fluxes in the marine twilight zones. PI: Hervé Claustre. Award Period: 2019-2022. [https://erc-refine.eu/new/](https://erc-refine.eu/new/) 
- - Nitrogen cycling in Latin America: drivers, impacts and vulnerabilities (CRN 3005). Sponsor: Inter-American for Global Change Research. PIs: Dr J. Ometto (PI), Dr T. Pérez (Co-  PI) and others. Award Period: 2012-2017. [http://nitrogen.ccst.inpe.br/](http://nitrogen.ccst.inpe.br/)  
- - Cariaco Basin Time Series. Climatic and Oceanographic Changes in the system of the Cariaco Basin. Sponsor: National Fund for Science and Technology (FONACIT-MCTI No 201200404). PIs: Dr Irene Astor (PI), Dr T. Pérez (Co-PI) and others. Award Period: 2012-2015.[http://www.imars.usf.edu/cariaco](http://www.imars.usf.edu/cariaco) 
+ - REFINE. Robots explore Plankton-driven fluxes in the marine twilight zones. PI: Hervé Claustre. Award Period: 2019-2022. [website](https://erc-refine.eu/new/) 
+ - Nitrogen cycling in Latin America: drivers, impacts and vulnerabilities (CRN 3005). Sponsor: Inter-American for Global Change Research. PIs: Dr J. Ometto (PI), Dr T. Pérez (Co-  PI) and others. Award Period: 2012-2017. [website](http://nitrogen.ccst.inpe.br/)  
+ - Cariaco Basin Time Series. Climatic and Oceanographic Changes in the system of the Cariaco Basin. Sponsor: National Fund for Science and Technology (FONACIT-MCTI No 201200404). PIs: Dr Irene Astor (PI), Dr T. Pérez (Co-PI) and others. Award Period: 2012-2015.[website](http://www.imars.usf.edu/cariaco) 
 
 
 
