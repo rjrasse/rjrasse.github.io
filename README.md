@@ -1,12 +1,12 @@
 ## RAFAEL RASSE
-## General topics of research
+## General topic of research
 Biogeochemical cycles of carbon and nitrogen in the main Earth’s reservoirs 
 
-## Current topic of interest
-I investigate the biogeochemical cycles of carbon and nitrogen in oxygen minimum zones and anoxic basins by merging conventional and ground-breaking approaches of quantification.
+## Major topic of interest
+INvestigation the biogeochemical cycles of carbon and nitrogen in oxygen minimum zones (OMZs)  and anoxic basins by merging conventional and ground-breaking approaches of quantification.
 
 ## Principal career goal
-My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon and nitrogen in anoxic basins and oxygen minimum zones (OMZs) to ultimately contribute to refine their mechanistic predictions.  
+My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon and nitrogen in  world OMZs to ultimately contribute to refine their mechanistic predictions.  
 
 
 You can use the [article1](https://article1)
