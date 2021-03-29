@@ -14,7 +14,7 @@ You can use the [article1](https://article1)
  
 ### align="left"
 
-| Option | Description       |                  |
+| Option | Description       |  <imgsrc="20161002_122959.jpg" width="100" height="100" > |
 | --------------------- |:---------------------------:| -----------:|
 
 
