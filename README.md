@@ -19,7 +19,7 @@ You can use the [article1](https://article1)
 
 
 
-<table>
+<table border="0">
  <tr>
  <td> one </td>
  <td> two </td>
