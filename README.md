@@ -1,4 +1,4 @@
-##  RAFAEL RASSE   <img align="center" src="20161002_122959.jpg" width="125" height="125">
+##  RAFAEL RASSE   <img align="center" src="20161002_122959.jpg" width="150" height="125">    Full CV
 
 
 ## Major topic of interest 
