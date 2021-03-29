@@ -1,4 +1,4 @@
-##  RAFAEL RASSE   <img align="right" src="Foto_Perfil.jpeg" width="180" height="180">   
+##  RAFAEL RASSE   <img align="right" src="Foto_Perfil.jpeg" width="250" height="250">   
 
 
 ## Major topic of interest 
