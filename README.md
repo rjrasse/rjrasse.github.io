@@ -14,6 +14,9 @@ You can use the [article1](https://article1)
  
 ### align="left"
 
+| Option | Description |
+| ------:| -----------:|
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
