@@ -1,9 +1,9 @@
-## RAFAEL RASSE
-## Major topic of interest
+## <font size="15"> RAFAEL RASSE
+## <font size="13"> Major topic of interest
 <div style="text-align: justify"> Investigating the biogeochemical cycles of carbon and nitrogen in oxygen minimum zones (OMZs)  and anoxic basins by merging conventional and ground-breaking approaches of quantification.
 
-## Principal Career Goal
-> <div style="text-align: justify"> My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon, oxygen, and nitrogen in the world OMZs to ultimately  contribute to refine their mechanistic predictions.  
+## <font size="13"> Principal Career Goal
+> <div style="text-align: justify" font size="12"> My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon, oxygen, and nitrogen in the world OMZs to ultimately  contribute to refine their mechanistic predictions.  
 
 
 You can use the [article1](https://article1)
