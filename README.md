@@ -9,7 +9,7 @@ You can use the [article1](https://article1)
 
 ### competence
 - first skill 
-- second one <img src="20161002_122959.jpg" width="100" height="100" style="float: right;">
+- second one <img style="float: right;" src="20161002_122959.jpg" width="100" height="100" >
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
