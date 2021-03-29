@@ -8,8 +8,8 @@
 > <div style="text-align: justify"> My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon, oxygen, and nitrogen in the world OMZs to ultimately  contribute to refine their mechanistic predictions. </div>
 
 ## Multidisciplinary individual projects 
- - Marie Sklodowska-Curie Fellowship. Key factors driving particulate organic matter fluxes and related dinitrogen losses in the main anoxic oxygen minimum zones of the world oceans (Noceanic). Award Period: 2019-2021.***PI: R. Rasse***.  
- -  < Royal society. Autonomous observations of oceanic carbon fluxes in the oxygen minimum zones (Atlantic OMZ). Award Period: 2016-2018.***PI: R. Rasse***. 
+ - Marie Sklodowska-Curie Fellowship. Key factors driving particulate organic matter fluxes and related dinitrogen losses in the main anoxic oxygen minimum zones of the world oceans (Noceanic). Award Period: 2019-2021. ***PI: R. Rasse***.  
+ -  < Royal society. Autonomous observations of oceanic carbon fluxes in the oxygen minimum zones (Atlantic OMZ). Award Period: 2016-2018. ***PI: R. Rasse***. 
 
 ## Pluridisciplinary Research-Programmes
  -  REFINE. Robots explore Plankton-driven fluxes in the marine twilight zones. PI: H. Claustre. Award Period: 2019-2022. [Website](https://erc-refine.eu/new/) 
