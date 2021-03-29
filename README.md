@@ -9,7 +9,7 @@ You can use the [article1](https://article1)
 
 ### competence
 - first skill 
-- second one  ![ALEX](20161002_122959.jpg =100x100)
+- second one  ![ALEX](20161002_122959.jpg | width=100)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
