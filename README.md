@@ -8,13 +8,13 @@
 > <div style="text-align: justify"> My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon, oxygen, and nitrogen in the world OMZs to ultimately  contribute to refine their mechanistic predictions. </div>
 
 ## Multidisciplinary individual projects 
- - Marie Sklodowska-Curie Fellowship. Key factors driving particulate organic matter fluxes and related dinitrogen losses in the main anoxic oxygen minimum zones of the world oceans (Noceanic). Award Period: 2019-2021. PI: R. Rasse
- - Royal society. Autonomous observations of oceanic carbon fluxes in the oxygen minimum zones (Atlantic OMZ). Award Period: 2016-2018. PI: R. Rasse
+ - <div style="text-align: justify"> Marie Sklodowska-Curie Fellowship. Key factors driving particulate organic matter fluxes and related dinitrogen losses in the main anoxic oxygen minimum zones of the world oceans (Noceanic). Award Period: 2019-2021. PI: R. Rasse </div>
+ -  <div style="text-align: justify"> Royal society. Autonomous observations of oceanic carbon fluxes in the oxygen minimum zones (Atlantic OMZ). Award Period: 2016-2018. PI: R. Rasse </div>
 
 ## Pluridisciplinary Research-Programmes
- - REFINE. Robots explore Plankton-driven fluxes in the marine twilight zones. PI: H. Claustre. Award Period: 2019-2022. [Website](https://erc-refine.eu/new/) 
- - Nitrogen cycling in Latin America: drivers, impacts and vulnerabilities (CRN 3005). Sponsor: Inter-American for Global Change Research. PIs: J. Ometto (PI), T. Pérez (Co-PI), and others. Award Period: 2012-2017. [Website](http://nitrogen.ccst.inpe.br/)  
- - Cariaco Basin Time Series. Climatic and Oceanographic Changes in the system of the Cariaco Basin. Sponsor: National Fund for Science and Technology (FONACIT-MCTI No 201200404). PIs:I. Astor (PI), T. Pérez (Co-PI), and others. Award Period: 2012-2015. [Website](http://www.imars.usf.edu/cariaco) 
+ -  <div style="text-align: justify"> REFINE. Robots explore Plankton-driven fluxes in the marine twilight zones. PI: H. Claustre. Award Period: 2019-2022. [Website](https://erc-refine.eu/new/) </div>
+ -  <div style="text-align: justify"> Nitrogen cycling in Latin America: drivers, impacts and vulnerabilities (CRN 3005). Sponsor: Inter-American for Global Change Research. PIs: J. Ometto (PI), T. Pérez (Co-PI), and others. Award Period: 2012-2017. [Website](http://nitrogen.ccst.inpe.br/) </div> 
+ -  <div style="text-align: justify"> Cariaco Basin Time Series. Climatic and Oceanographic Changes in the system of the Cariaco Basin. Sponsor: National Fund for Science and Technology (FONACIT-MCTI No 201200404). PIs:I. Astor (PI), T. Pérez (Co-PI), and others. Award Period: 2012-2015. [Website](http://www.imars.usf.edu/cariaco) </div>
 
 ## Interdisciplinary Graduate Courses (> 40 credits, Period: 2007-2012)
 
