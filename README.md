@@ -20,7 +20,7 @@
 
  - ***Earth Science*** 
    - Introduction to Environmental Sciences 
-   - Climate Change 
+   - Climate Change: Causes, Effects and Mitigation 
    - Surface Ocean Lower Atmosphere Summer School 
    - Atmospheric Chemistry 
    - Effects of Global Change on the Terrestrial Biosphere 
