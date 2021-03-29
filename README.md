@@ -1,6 +1,12 @@
 ## Welcome to my webpage 
-## Topics of research
-My field of interest is investigating the biogeochemical cycles of carbon and nitrogen in the main Earth’s reservoirs by combining conventional and ground-breaking approaches of quantification.  
+## General topics of research
+My field of interest is investigating the biogeochemical cycles of carbon and nitrogen in the main Earth’s reservoirs 
+
+## Current topic of interest
+I investigate the biogeochemical cycles of carbon and nitrogen in oxygen minimum zones and anoxic basins by merging conventional and ground-breaking approaches of quantification.
+
+## Principal career goal
+My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon and nitrogen in anoxic basins and oxygen minimum zones (OMZs) to ultimately contribute to refine their mechanistic predictions.  
 
 
 You can use the [article1](https://article1)
