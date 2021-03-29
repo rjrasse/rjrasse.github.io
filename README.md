@@ -8,6 +8,24 @@
 > <div style="text-align: justify"> My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon, oxygen, and nitrogen in the world OMZs to ultimately  contribute to refine their mechanistic predictions.  
 
 
+## Multidisciplinary individual projects 
+ - Marie Sklodowska-Curie Fellowship. Key factors driving particulate organic matter fluxes and related dinitrogen losses in the main anoxic oxygen minimum zones of the world oceans (Noceanic). Award Period: 2019-2021
+ - Royal society. Autonomous observations of oceanic carbon fluxes in the oxygen minimum zones (Atlantic OMZ). Award Period: 2016-2018!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [article1](https://article1)
 
 [article1](https://article1)
