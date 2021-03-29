@@ -9,7 +9,7 @@ You can use the [article1](https://article1)
 
 ### competence
 - first skill 
-- second one
+- second one [Image](20161002_122959.jpg)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,5 +28,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](20161002_122959.jpg)
 ```
