@@ -21,9 +21,7 @@ You can use the [article1](https://article1)
 
 ## Pluridisciplinary Research-Programmes
  - REFINE. Robots explore Plankton-driven fluxes in the marine twilight zones. PI: Hervé Claustre. Award Period: 2019-2022. https://erc-refine.eu/new/ 
- - 
  - Nitrogen cycling in Latin America: drivers, impacts and vulnerabilities (CRN 3005). Sponsor: Inter-American for Global Change Research. PIs: Dr J. Ometto (PI), Dr T. Pérez (Co-  PI) and others. Award Period: 2012-2017. http://nitrogen.ccst.inpe.br/  
-
  - Cariaco Basin Time Series. Climatic and Oceanographic Changes in the system of the Cariaco Basin. Sponsor: National Fund for Science and Technology (FONACIT-MCTI No 201200404). PIs: Dr Irene Astor (PI), Dr T. Pérez (Co-PI) and others. Award Period: 2012-2015. http://www.imars.usf.edu/cariaco 
 
 
