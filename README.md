@@ -75,24 +75,4 @@
 
 
 
-######- second one <img style="float: right;" src="20161002_122959.jpg" width="100" height="100" >
- 
-
-
-
-
-
-<table border="0">
-<table border="0">
- <tr>
- <td> one </td>
- <td> two </td>
- 
- </tr>
- <tr>
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](20161002_122959.jpg)
-```
+###### [Link](url) and ![Image](20161002_122959.jpg)
