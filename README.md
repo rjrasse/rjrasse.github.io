@@ -1,11 +1,13 @@
 ##  RAFAEL RASSE (ongoing construction)  <img align="right" src="Foto_Perfil2.jpeg" width="200" height="200">   
 
+## Integrative Perspective of the Biogeochemical Cycles
+> <div style="text-align: justify"> I am a chemist with pluridisciplinary skills, who also holds a PhD in Chemistry (Earth Science), and a  Postgraduate Certificate in Ocean Observatories. Hence, my multidisciplinary background and skills allow me to have a wide understanding, and an exceptional integrative view regarding: (1) how several mechanisms concurrently drive the biogeochemical cycles of key elements in the main reservoirs of the planet (i.e. atmosphere, land, ocean and rivers), and (2) how such cycles are interconnected between reservoirs and partially drive our climate, and (3) identify key biogeochemical knowledge gaps and ultimately propose novel solutions to fill them by combining traditional and novel cross-disciplinary approaches particularly in the tropical oceans. </div>
 
 ## Main topic of interest 
 > <div style="text-align: justify"> Investigating the biogeochemical cycles of carbon and nitrogen in tropical oxygen minimum zones (OMZs) and anoxic basins by merging conventional and ground-breaking approaches of quantification. </div>
 
 ## Career Goal
-> <div style="text-align: justify"> My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon, oxygen, and nitrogen in the world OMZs to ultimately  contribute to refine their mechanistic predictions. </div>
+> <div style="text-align: justify"> My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon, oxygen, and nitrogen in the world OMZs to ultimately contribute to refine their mechanistic predictions. </div>
 
 ## Multidisciplinary individual projects 
  - Marie Sklodowska-Curie Fellowship. Key factors driving particulate organic matter fluxes and related dinitrogen losses in the main anoxic oxygen minimum zones of the world oceans (Noceanic). Award Period: 2019-2021. ***PI: R. Rasse***.  
