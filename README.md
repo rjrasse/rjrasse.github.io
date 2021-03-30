@@ -47,7 +47,6 @@
  - M. Bustamante, J. Ometto, L. Martinelli, T. Pérez, ***R. Rasse***, et al. (2015). Nitrogen management challenges in major watersheds of Latin America. Environmental Research Letters, 10(6), 065007. http://iopscience.iop.org/article/10.1088/1748-9326/10/6/065007 
  - S. Marquina, T. Pérez, L. Donoso, A. Giuliante, ***R. Rasse*** and F. Herrera (2015). NO, N2O and CO2 soil emissions from Venezuelan corn fields under tillage and no-tillage agriculture. Nutrient Cycling in Agroecosystems. 101:123-137. https://link.springer.com/article/10.1007/s10705-014-9659-0 
  - ***R.  Rasse***, R. Domínguez, A. Herize, M. Tosta, D.  Brusco, and G. Chuchani (2007). “Catalysis by hydrogen chloride in the gas-phase elimination kinetics of 2-phenyl-2-propanol and 3-methyl-1-buten-3-ol”. Journal of Physical Organic Chemistry. 20: 44-48. https://onlinelibrary.wiley.com/doi/abs/10.1002/poc.1123  
-![image](https://user-images.githubusercontent.com/18702671/113011338-fc9ab600-9179-11eb-8080-68376b7306dd.png)
 
 
 
