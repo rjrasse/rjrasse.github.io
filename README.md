@@ -51,8 +51,7 @@
  - ***R. Rasse***, G. Dall’Olmo, J. Graff, T.K. Westberry, V. van Dongen-Vogels, M.J. Behrenfeld (2017). Evaluating optical proxies of particulate organic carbon across the surface Atlantic Ocean. Frontiers in Marine Science-Ocean Observations. 4, 367.[[PDF]](https://www.frontiersin.org/articles/10.3389/fmars.2017.00367/full).
  - M. Bustamante, J. Ometto, L. Martinelli, T. Pérez, ***R. Rasse***, et al. (2015). Nitrogen management challenges in major watersheds of Latin America. Environmental Research Letters, 10(6), 065007. [[PDF]] (https://iopscience.iop.org/article/10.1088/1748-9326/10/6/065007/pdf)
  - S. Marquina, T. Pérez, L. Donoso, A. Giuliante, ***R. Rasse*** and F. Herrera (2015). NO, N2O and CO2 soil emissions from Venezuelan corn fields under tillage and no-tillage agriculture. Nutrient Cycling in Agroecosystems. 101:123-137.[[PDF]](https://github.com/rjrasse/rjrasse.github.io/blob/Rafael-Rasse/Marquina_et_al_2015.pdf)
- - ***R.  Rasse***, R. Domínguez, A. Herize, M. Tosta, D.  Brusco, and G. Chuchani (2007). “Catalysis by hydrogen chloride in the gas-phase elimination kinetics of 2-phenyl-2-propanol and 3-methyl-1-buten-3-ol”. Journal of Physical Organic Chemistry. 20: 44-48. [[PDF]] (https://github.com/rjrasse/rjrasse.github.io/blob/Rafael-Rasse/Rasse_et_al_2007.pdf)
-
+ - ***R.  Rasse***, R. Domínguez, A. Herize, M. Tosta, D.  Brusco, and G. Chuchani (2007). “Catalysis by hydrogen chloride in the gas-phase elimination kinetics of 2-phenyl-2-propanol and 3-methyl-1-buten-3-ol”. Journal of Physical Organic Chemistry. 20: 44-48.[[PDF]](https://github.com/rjrasse/rjrasse.github.io/blob/Rafael-Rasse/Rasse_et_al_2007.pdf) 
 
 
 
