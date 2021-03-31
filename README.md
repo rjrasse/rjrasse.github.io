@@ -46,8 +46,8 @@
  - ***R. Rasse***, et al. (2021). Refining the N budget of the anoxic Cariaco basin (to be submitted to Frontiers in Marine Science)
  - J. Ross, G. Dall’Olmo, K. Haines and ***R. Rasse*** (2021). Measuring POC and its uncertainties in the mesopelagic zone of the Atlantic Ocean. Limnology and Oceanography: Methods (conditional acceptance, revision submitted). http://www.amt-uk.org/Publications  
  - ***R. Rasse***, H. Claustre, and A. Poteau (2020). The suspended small-particle layer in the oxygen-poor Black Sea: a proxy for delineating the effective N2-yielding section. Biogeoscience.
- - ***R. Rasse***, G. and Dall’Olmo (2019). Do oceanic hypoxic regions act as barriers for sinking particles? A case study in the eastern tropical north Atlantic. Global Biogeochemical Cycles.
- - ***R. Rasse***, T. T. Pérez, A. Guiliante, and L. Donoso (2018). Total dissolved atmospheric nitrogen deposition in the anoxic Cariaco Basin. Atmospheric Environment. 179, 118-131.https://www.sciencedirect.com/science/article/pii/S1352231018300797. 
+ - ***R. Rasse***, G. and Dall’Olmo (2019). Do oceanic hypoxic regions act as barriers for sinking particles? A case study in the eastern tropical north Atlantic. Global Biogeochemical Cycles.[pdf](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019GB006305)
+ - ***R. Rasse***, T. T. Pérez, A. Guiliante, and L. Donoso (2018). Total dissolved atmospheric nitrogen deposition in the anoxic Cariaco Basin. Atmospheric Environment. 179, 118-131.[pdf] < scr = "Rasse_et_al 2018.pdf">
  - ***R. Rasse***, G. Dall’Olmo, J. Graff, T.K. Westberry, V. van Dongen-Vogels, M.J. Behrenfeld (2017). Evaluating optical proxies of particulate organic carbon across the surface Atlantic Ocean. Frontiers in Marine Science-Ocean Observations. 4, 367. https://www.frontiersin.org/articles/10.3389/fmars.2017.00367/full  .
  - M. Bustamante, J. Ometto, L. Martinelli, T. Pérez, ***R. Rasse***, et al. (2015). Nitrogen management challenges in major watersheds of Latin America. Environmental Research Letters, 10(6), 065007. http://iopscience.iop.org/article/10.1088/1748-9326/10/6/065007 
  - S. Marquina, T. Pérez, L. Donoso, A. Giuliante, ***R. Rasse*** and F. Herrera (2015). NO, N2O and CO2 soil emissions from Venezuelan corn fields under tillage and no-tillage agriculture. Nutrient Cycling in Agroecosystems. 101:123-137. https://link.springer.com/article/10.1007/s10705-014-9659-0 
@@ -61,4 +61,4 @@
 
 
 
-[article1](https://article1)
+
