@@ -55,7 +55,7 @@
 
 
 
-<hr style="border: 0.3px solid green; width:40%;"></hr>
+<hr style="border: 0.8px solid green; width:40%;">
 
 
 
