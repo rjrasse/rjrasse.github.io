@@ -41,7 +41,7 @@
        - Advanced Inorganic Chemistry 
        - Chemical Kinetics 
        - Chemical Thermodynamics
-     ---  
+---  
 ### Peer Reviewed Publications 
  - ***R. Rasse***, et al. (2021). Refining the N budget of the anoxic Cariaco basin (to be submitted to Frontiers in Marine Science)
  - J. Ross, G. Dall’Olmo, K. Haines and ***R. Rasse*** (2021). Measuring POC and its uncertainties in the mesopelagic zone of the Atlantic Ocean. Limnology and Oceanography: Methods (conditional acceptance, revision submitted). http://www.amt-uk.org/Publications  
