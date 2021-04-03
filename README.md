@@ -41,7 +41,6 @@
        - Advanced Inorganic Chemistry 
        - Chemical Kinetics 
        - Chemical Thermodynamics
----  
 
 ### Peer Reviewed Publications 
  - ***R. Rasse***, et al. (2021). Refining the N budget of the anoxic Cariaco basin (to be submitted to Frontiers in Marine Science)
