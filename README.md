@@ -41,8 +41,6 @@
        - Advanced Inorganic Chemistry 
        - Chemical Kinetics 
        - Chemical Thermodynamics
-
-
 ---  
 
 ### Peer Reviewed Publications 
