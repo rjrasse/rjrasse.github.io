@@ -1,6 +1,5 @@
 
 ## [RAFAEL RASSE (under construction)](+) <img align="right" src="Foto_Perfil2.jpeg" width="200" height="220">   
----
 
 ### Integrative Perspective of the Biogeochemical Cycles
 > <div style="text-align: justify"> I am a chemist with pluridisciplinary skills, who also holds a PhD in Chemistry (Earth Science), and a Postgraduate Certificate in Ocean Observatories. My multidisciplinary background and skills allow me to have a wide understanding and an exceptional integrative view regarding: (1) how several mechanisms concurrently drive the biogeochemical cycles of key elements in the main reservoirs of the planet (i.e. atmosphere, land, ocean and rivers), (2) how such cycles are interconnected within (and between) the reservoirs and partially drive our climate, and (3) identify key biogeochemical knowledge gaps particularly in the tropical oceans, and ultimately propose revolutionary solutions to fill them by combining traditional and cutting-edge cross-disciplinary approaches. </div>
@@ -42,7 +41,7 @@
        - Advanced Inorganic Chemistry 
        - Chemical Kinetics 
        - Chemical Thermodynamics
-       
+     ---  
 ### Peer Reviewed Publications 
  - ***R. Rasse***, et al. (2021). Refining the N budget of the anoxic Cariaco basin (to be submitted to Frontiers in Marine Science)
  - J. Ross, G. Dall’Olmo, K. Haines and ***R. Rasse*** (2021). Measuring POC and its uncertainties in the mesopelagic zone of the Atlantic Ocean. Limnology and Oceanography: Methods (conditional acceptance, revision submitted). http://www.amt-uk.org/Publications  
