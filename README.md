@@ -55,7 +55,7 @@
 
 
 
-<hr style="border: 0.8px solid green; width:40%;">
+<hr style="border: 1.8px solid vlue; width:50%;">
 
 
 
