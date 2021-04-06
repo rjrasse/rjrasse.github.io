@@ -68,7 +68,7 @@
 
 ### Venezuelan and International Funding Agencies (Trainings and Fellowships)
 
-<img align="left" src="funding_AG.png" width="750" height="300"> 
+<img align="left" src="funding_AG.png" width="700" height="120"> 
 
 
 
