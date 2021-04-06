@@ -69,6 +69,9 @@
 
 <hr style="border: 1.8px solid blue; width:50%;">
 
+### Venezuelan and International Funding Agencies (Trainings and Fellowships)
+
+<img align="left" src="funding_AG.png" width="750" height="300"> 
 
 
 
