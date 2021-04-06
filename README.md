@@ -33,6 +33,8 @@
 
 <img align="left" src="website_training.png" width="750" height="150"> 
 
+
+
 #### Graduate Courses (> 40 credits, Period: 2007-2012)
 
  - ***Earth Science*** 
