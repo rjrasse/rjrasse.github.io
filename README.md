@@ -21,12 +21,12 @@
  -  Nitrogen cycling in Latin America: drivers, impacts and vulnerabilities (CRN 3005). Sponsor: Inter-American for Global Change Research. PIs: J. Ometto (PI), T. Pérez (Co-PI), and others. Award Period: 2012-2017. [Website](http://nitrogen.ccst.inpe.br/)  
  -  Cariaco Basin Time Series. Climatic and Oceanographic Changes in the system of the Cariaco Basin. Sponsor: National Fund for Science and Technology (FONACIT-MCTI No 201200404). PIs:I. Astor (PI), T. Pérez (Co-PI), and others. Award Period: 2012-2015. [Website](http://www.imars.usf.edu/cariaco) 
 
-Cross-Disciplinary International Trainings 
+## Cross-Disciplinary International Trainings 
 - On-board training on an Atlantic Meridional Transect (AMT) cruise. Royal Research Ship James Clark Ross and Plymouth Marine Laboratory, UK. 2014.
 - Pan-American Advanced Studies Institute (PASI) Programme “Toward a Sustained Operational River-to-Shelf Observation & Prediction System for the Amazon. Brazil. 2013.
 - Nippon Foundation-Partnership for Observation of the Global Ocean (NF-POGO) Centre of Excellence in Observational Oceanography (CoFe). Bermuda. 2011.
 - Third Surface Ocean Lower Atmosphere (SOLAS) Study. France.2007.
-<img align="center" src="website_training.png" width="800" height="100"> 
+<img align="center" src="website_training.png" width="810" height="150"> 
 
 ## Graduate Courses (> 40 credits, Period: 2007-2012)
 
