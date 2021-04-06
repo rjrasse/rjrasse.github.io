@@ -61,7 +61,6 @@
  - ***R.  Rasse***, R. Domínguez, A. Herize, M. Tosta, D.  Brusco, and G. Chuchani (2007). “Catalysis by hydrogen chloride in the gas-phase elimination kinetics of 2-phenyl-2-propanol and 3-methyl-1-buten-3-ol”. Journal of Physical Organic Chemistry. 20: 44-48.[[PDF]](https://github.com/rjrasse/rjrasse.github.io/blob/Rafael-Rasse/Rasse_et_al_2007.pdf) 
 
 
-
 <hr style="border: 1.8px solid blue; width:50%;">
 
 
