@@ -31,7 +31,10 @@
 - Nippon Foundation-Partnership for Observation of the Global Ocean (NF-POGO) Centre of Excellence in Observational Oceanography (CoFe). Bermuda. 2011.
 - Third Surface Ocean Lower Atmosphere (SOLAS) Study. France.2007.
 
+
 <img align="left" src="website_training.png" width="750" height="150"> 
+
+
 
 
 
