@@ -26,7 +26,7 @@
 - Pan-American Advanced Studies Institute (PASI) Programme “Toward a Sustained Operational River-to-Shelf Observation & Prediction System for the Amazon. Brazil. 2013.
 - Nippon Foundation-Partnership for Observation of the Global Ocean (NF-POGO) Centre of Excellence in Observational Oceanography (CoFe). Bermuda. 2011.
 - Third Surface Ocean Lower Atmosphere (SOLAS) Study. France.2007.
-<img align="center" src="website_training.png" width="810" height="150"> 
+<img align="left" src="website_training.png" width="810" height="150"> 
 
 # Graduate Courses (> 40 credits, Period: 2007-2012)
 
