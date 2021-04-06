@@ -32,7 +32,7 @@
 - Third Surface Ocean Lower Atmosphere (SOLAS) Study. France.2007.
 
 
-<img align="left" src="website_training.png" width="750" height="150"> 
+<img align="left" src="website_training.png" width="750" height="130"> 
 
 
 
