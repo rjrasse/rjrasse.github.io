@@ -23,7 +23,6 @@
  -	Bermuda Atlantic Time Series (BATS). This is a long-term oceanographic study by the Bermuda Institute of Ocean Sciences (BIOS).2010-2011. [Website](http://bats.bios.edu/about/)  
  <img align="center" src="Logos_inter_prog.png" width="600" height="60"> 
  
- 
 
 
 #### Cross-Disciplinary International Trainings 
@@ -70,6 +69,37 @@
 ### Venezuelan and International Funding Agencies (Trainings and Fellowships)
 
 <img align="left" src="funding_AG.png" width="750" height="300"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
