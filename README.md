@@ -181,4 +181,3 @@
 
 
 
-<hr style="border: 1.8px solid blue; width:50%;">
