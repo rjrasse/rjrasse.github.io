@@ -20,6 +20,8 @@
  - The Atlantic Meridional Transect (AMT) multidisciplinary programme, which undertakes biological, chemical and physical oceanographic research during an annual voyage between the UK and destinations in the South Atlantic.PI:A. Rees.2014-2016. [website](https://www.amt-uk.org/) 
  -  Nitrogen cycling in Latin America: drivers, impacts and vulnerabilities (CRN 3005). Sponsor: Inter-American for Global Change Research. PIs: J. Ometto (PI), T. Pérez (Co-PI), and others. Award Period: 2012-2017. [Website](http://nitrogen.ccst.inpe.br/)  
  -  Cariaco Basin Time Series. Climatic and Oceanographic Changes in the system of the Cariaco Basin. Sponsor: National Fund for Science and Technology (FONACIT-MCTI No 201200404). PIs:I. Astor (PI), T. Pérez (Co-PI), and others. Award Period: 2012-2015. [Website](http://www.imars.usf.edu/cariaco) 
+ -	Bermuda Atlantic Time Series (BATS). This is a long-term oceanographic study by the Bermuda Institute of Ocean Sciences (BIOS).2010-2011. [Website](http://bats.bios.edu/about/)  <img align="left" src="Logos_inter_prog.png" width="500" height="90"> 
+
 
 #### Cross-Disciplinary International Trainings 
 - On-board training on an Atlantic Meridional Transect (AMT) cruise. Royal Research Ship James Clark Ross and Plymouth Marine Laboratory, UK. 2014.
