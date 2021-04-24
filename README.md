@@ -54,8 +54,8 @@
 
 #### Selected Communication and Outreach 
 - Float posters for global dissemination. 2021.[[PDF]](https://github.com/rjrasse/rjrasse.github.io/blob/Rafael-Rasse/poster_refine_float_2021_spa.pdf)
-- Participation in the institutional POGO film to promote its role in global ocean observations in the developing world. 2021. [website](https://www.youtube.com/watch?v=d7PY9hTvXgM)  
-- Instructive videos to adequately attach an UVP sensor on the BGC-Argo float [website](https://dropsu.sorbonne-universite.fr/s/eWzKYFQepyHoFS9), as well as to successfully deploy the floats in the open ocean[website](https://dropsu.sorbonne-universite.fr/s/HCFnmH39SQGEYk5).2020.
+- Participation in the institutional POGO film to promote its role in global ocean observations in the developing world. 2021. [video](https://www.youtube.com/watch?v=d7PY9hTvXgM)  
+- Instructive videos to adequately attach an UVP sensor on the BGC-Argo float [video](https://dropsu.sorbonne-universite.fr/s/eWzKYFQepyHoFS9), as well as to successfully deploy the floats in the open ocean [video](https://dropsu.sorbonne-universite.fr/s/HCFnmH39SQGEYk5).2020.
 
 #### Skills by Topics ####
 My skills varied according to the Earth’s reservoir studied as described below:
