@@ -85,7 +85,7 @@ My skills varied according to the Earth’s reservoir studied as described below
 
 
 ***Field work, and cruise expeditions***
- ***Atlantic Meridional Transect 24 and 26. (80 days)***.> <div style="text-align: justify"> Activities. AMT24: Collecting suspended POM in the surface and mesopelagic layer of the main Atlantic provinces, and processing optical data collected by WETLabs spectral absorption and attenuation meter (role: participant). AMT26: Collecting suspended POM in the surface and mesopelagic layer of the ETNA OMZ, and measuring optical properties. Building and testing an enclosed filtration system with positive pressure to collect suspended POM (role: independent international researcher). </div>
+***Atlantic Meridional Transect 24 and 26. (80 days)***. Activities. AMT24: Collecting suspended POM in the surface and mesopelagic layer of the main Atlantic provinces, and processing optical data collected by WETLabs spectral absorption and attenuation meter (role: participant). AMT26: Collecting suspended POM in the surface and mesopelagic layer of the ETNA OMZ, and measuring optical properties. Building and testing an enclosed filtration system with positive pressure to collect suspended POM (role: independent international researcher).
 
 
 
@@ -94,7 +94,7 @@ My skills varied according to the Earth’s reservoir studied as described below
 
 
 
-***Carbonate Chemistry in Coastal tropical regions (days  15)***. > <div style="text-align: justify">Activities. Periodic measurements of the psychochemical and biological parameters in coastal zones at subtropical (Bermuda, see knowledge here:) and tropical (Venezuela) latitudes to evaluate the exchange of greenhouse gases (i.e. CO2). </div>
+***Carbonate Chemistry in Coastal tropical regions (days  15)***. Activities. Periodic measurements of the psychochemical and biological parameters in coastal zones at subtropical (Bermuda, see knowledge here:) and tropical (Venezuela) latitudes to evaluate the exchange of greenhouse gases (i.e. CO2). 
 
 
  <img align="left" src="Venezuelan_tropical_coast.png" width="750" height="100">
