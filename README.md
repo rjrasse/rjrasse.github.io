@@ -87,7 +87,7 @@ My skills varied according to the Earth’s reservoir studied as described below
 
 <img align="left" src="AMT_cruises.png" width="750" height="160"> &nbsp;
 
-***Carbonate Chemistry in Coastal tropical regions (days  15)***. Activities. Periodic measurements of the psychochemical and biological parameters in coastal zones at subtropical (Bermuda, see knowledge here:) and tropical (Venezuela) latitudes to evaluate the exchange of greenhouse gases (i.e. CO2).
+***Carbonate Chemistry in Coastal tropical regions (15 days)***. Activities. Periodic measurements of the psychochemical and biological parameters in coastal zones at subtropical (Bermuda, see knowledge here:) and tropical (Venezuela) latitudes to evaluate the exchange of greenhouse gases (i.e. CO2).
 
 
  <img align="left" src="Venezuelan_tropical_coast.png" width="750" height="180">&nbsp; 
@@ -104,7 +104,7 @@ My skills varied according to the Earth’s reservoir studied as described below
 <img align="left" src="Atmosphera_Cariaco.png" width="750" height="180"> &nbsp;
 
 
-***Dissolved nitrogen loaded by tropical tributaries rivers (12 months)***. Activities. Monthly measurements of the in-situ physicochemical parameters, and collecting samples for the analysis of dissolved nitrogen and carbon, and suspended organic matter (role: scientist leader). 
+***Dissolved nitrogen loaded by tropical tributaries rivers (48 days over a time series of one year)***. Activities. Monthly measurements of the in-situ physicochemical parameters, and collecting samples for the analysis of dissolved nitrogen and carbon, and suspended organic matter (role: scientist leader). 
 
 
 <img align="left" src="Rivers_Cariaco.png" width="750" height="180"> &nbsp;
