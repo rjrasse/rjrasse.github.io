@@ -89,7 +89,7 @@ My skills varied according to the Earth’s reservoir studied as described below
 
 
 
-<img align="left" src="AMT_cruises.png" width="750" height="100"> <br/>
+<img align="left" src="AMT_cruises.png" width="750" height="180"> <br/>
 
 
 
@@ -97,7 +97,7 @@ My skills varied according to the Earth’s reservoir studied as described below
 ***Carbonate Chemistry in Coastal tropical regions (days  15)***. Activities. Periodic measurements of the psychochemical and biological parameters in coastal zones at subtropical (Bermuda, see knowledge here:) and tropical (Venezuela) latitudes to evaluate the exchange of greenhouse gases (i.e. CO2). 
 
 
- <img align="left" src="Venezuelan_tropical_coast.png" width="750" height="100"> (<-- two spaces)
+ <img align="left" src="Venezuelan_tropical_coast.png" width="750" height="180"> (<-- two spaces)
  
  
  
