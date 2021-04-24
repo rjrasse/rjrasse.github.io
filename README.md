@@ -139,9 +139,12 @@ the mesopelagic zone of the Atlantic ocean. Open Research Europe [[PDF]](https:/
  - ***R.  Rasse***, R. Domínguez, A. Herize, M. Tosta, D.  Brusco, and G. Chuchani (2007). “Catalysis by hydrogen chloride in the gas-phase elimination kinetics of 2-phenyl-2-propanol and 3-methyl-1-buten-3-ol”. Journal of Physical Organic Chemistry. 20: 44-48.[[PDF]](https://github.com/rjrasse/rjrasse.github.io/blob/Rafael-Rasse/Rasse_et_al_2007.pdf) 
 
 
-### Venezuelan and International Funding Agencies (Trainings and Fellowships)
+#### Venezuelan and International Funding Agencies (Trainings and Fellowships)####
 
-<img align="left" src="funding_AG.png" width="700" height="120"> 
+<img align="left" src="funding_AG.png" width="700" height="140"> &nbsp;
+
+### Visualisation's Credits #####
+Victoria Cheung, Robert Brewing, Giorgio Dall’Olmo, Fernanda Giannini, Adriana Guiliante, Thomas Jessin, José Lozano, Sorena Marquina, Megly Mendoza,  POGO, Antoine Poteau, Rafael Rasse, REFINE project, Avery Snyder, and Bess Ward. ![image](https://user-images.githubusercontent.com/18702671/115964402-a9234a00-a524-11eb-854b-01da0456fdce.png)
 
 
 
