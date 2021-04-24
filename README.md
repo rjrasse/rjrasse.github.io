@@ -4,11 +4,11 @@
 #### Integrative Perspective of the Biogeochemical Cycles
 > <div style="text-align: justify"> I am a chemist with pluridisciplinary skills, who holds a PhD in Chemistry (Earth Science), a Postgraduate Certificate in Ocean Observatories. My solid multidisciplinary background and skills allow me to have a wide understanding, and an exceptional integrative view regarding: (1) how several mechanisms concurrently drive the biogeochemical cycles of key elements in the main reservoirs of the planet (i.e. atmosphere, land, ocean and rivers), and (2) how such cycles are interconnected within (and between) the reservoirs and partially drive the Earth’s climate, and (3) identify key biogeochemical knowledge gaps and ultimately propose novel solutions to fill them by combining traditional and ground-breaking cross-disciplinary approaches particularly in the tropical oceans poorly oxygenated. </div>
 
-#### Main topic of interest 
-> <div style="text-align: justify"> Investigating the biogeochemical cycles of carbon and nitrogen in tropical oxygen minimum zones (OMZs) and anoxic basins by merging conventional and ground-breaking approaches of quantification. </div>
+#### General Topic of Research####
+> <div style="text-align: justify"> Investigating the biogeochemical cycles of carbon and nitrogen in the main Earth’s reservoirs by combining conventional and revolutionary approaches of quantification. </div>
 
 ##### Career Goal
-> <div style="text-align: justify"> My main career ambition is contributing to unravel the key set of mechanisms that drive the biogeochemical cycles of carbon, oxygen, and nitrogen in the world OMZs to ultimately contribute to refine their mechanistic predictions. </div>
+> <div style="text-align: justify"> Contributing to unravel the key set of mechanisms that concurrently modulate the carbon, oxygen, and nitrogen cycles in OMZs and anoxic basins to ultimately contribute to refine their mechanistic predictions. </div>
 
 #### Multidisciplinary individual projects 
  - Marie Sklodowska-Curie Fellowship. Key factors driving particulate organic matter fluxes and related dinitrogen losses in the main anoxic oxygen minimum zones of the world oceans (Noceanic). Award Period: 2019-2021. ***PI: R. Rasse***. France.  
@@ -22,8 +22,6 @@
  -  Cariaco Basin Time Series. Climatic and Oceanographic Changes in the system of the Cariaco Basin. Sponsor: National Fund for Science and Technology (FONACIT-MCTI No 201200404). PIs:I. Astor (PI), T. Pérez (Co-PI), and others. Award Period: 2012-2015. [Website](http://www.imars.usf.edu/cariaco) 
  -	Bermuda Atlantic Time Series (BATS). This is a long-term oceanographic study by the Bermuda Institute of Ocean Sciences (BIOS).2010-2011. [Website](http://bats.bios.edu/about/)  
  <img align="center" src="Logos_inter_prog.png" width="600" height="60"> 
- 
-
 
 #### Cross-Disciplinary International Trainings 
 - On-board training on an Atlantic Meridional Transect (AMT) cruise. Royal Research Ship James Clark Ross and Plymouth Marine Laboratory, UK. 2014.
@@ -33,8 +31,6 @@
 
 
 <img align="left" src="website_training.png" width="750" height="130"> 
-
-
 
 
 
@@ -54,10 +50,67 @@
    - Carbon Cycle/Ocean Acidification
        
   - ***Chemistry***
-       - Analytical Chemistry
-       - Advanced Inorganic Chemistry 
-       - Chemical Kinetics 
-       - Chemical Thermodynamics
+   - Analytical Chemistry
+   - Advanced Inorganic Chemistry 
+   - Chemical Kinetics 
+   - Chemical Thermodynamics
+
+#### Skills by Topics####≠#
+My skills varied according to the Earth’s reservoir studied as described below:
+ -***Ocean-Sea*** 
+   -	Exploiting and merging standard and new generation of Biogeochemical Argo floats (ground-breaking approach) and remote sensing data products  to explore and  investigate remote oceanic regions in the tropics. 
+   -	Using CTD-rosette to study the biogeochemical and optical characteristics of the surface and mesopelagic layer of the ocean.
+ -***Atmosphere***. Applicating high volume cascade impactor, only-wet deposition sampler, meteorological station, and satellite products (i.e. backward air-masses trajectories) to investigate .
+ -***Rivers***. Automatic pumping sampler, multiparametric ultrasound, general Oceanic speedometer, and satellite products on the rivers’ basins (i.e. precipitation) 
+ -***Land***. Closed chamber methods to collect and then measure greenhouse gases emitted from corn fields via gas chromatography (i.e. CO2 & N2O) .
+
+#### Instruments in the Lab ####
+-	Technicon Auto-Analyzer II to analyse macronutrients.
+-	UV combustion system to convert dissolved organic matter into dissolved inorganic ions. 
+-	Gas chromatography to quantify dissolved organic matter and ions, and gases (CO2 & N2O ) 
+-	CHN analyser  to quantify particulate organic matter.
+-	Automatic titration to determine alkalinity  and investigate carbonate chemistry in rivers and seawater.
+
+#### Deployment of biogeochemical (BGC) Argo floats, field work, and cruise expeditions ####
+Since the begging of my career, I have been leading and participating in field works to investigate biogeochemical cycles in the main reservoirs of the planet (i.e. land, ocean, rivers, and atmosphere) from local, regional, and global scales and over a continuum of time scales (from days to years). More recently, I have been involved in the deployment of BGC-Argo floats.   
+
+***Deployment of BGC-Argo floats in the tropical OMZs***
+Since 2014, I have been directly involved in coordinating the deployment of the first BGC-Argo floats in the OMZs of the eastern tropical north Atlantic and north Pacific. More recently (2020), I have deployed the first float attached with an UVP and an array of sensors that will allow me to generate key information regarding how diverse mechanisms modulate the cycles of C, O, and N. 
+
+<img align="left" src="floats_deployment.png" width="750" height="130"> 
+
+***Field work, and cruise expeditions***
+-	Atlantic Meridional Transect (AMT) 24 and 26. (80 days)
+o	Activities. AMT24: Collecting suspended POM in the surface and mesopelagic layer of the main Atlantic provinces, and processing optical data collected by WETLabs spectral absorption and attenuation meter (role: participant). AMT26: Collecting suspended POM in the surface and mesopelagic layer of the ETNA OMZ, and measuring optical properties. Building and testing an enclosed filtration system with positive pressure to collect suspended POM (role: independent international researcher).
+
+<img align="left" src="AMT_cruises.png" width="750" height="130">
+
+-	Atmospheric deposition at the northeast of the anoxic Cariaco basin (3 months)
+o	Activities. Performing the best sampling location and strategy, to ultimately collect atmospheric samples and quantify atmospheric deposition of dissolved nutrients over the anoxic Cariaco basin (role: scientist leader).
+
+<img align="left" src="Atmosphera_Cariaco.png" width="750" height="130">
+
+-	Dissolved nitrogen loaded by tropical tributaries rivers (12 months)  
+o	Activities. Monthly measurements of the in-situ physicochemical parameters, and collecting samples for the analysis of dissolved nitrogen and carbon, and suspended organic matter (role: scientist leader). 
+
+<img align="left" src="Rivers_Cariaco.png" width="750" height="130"> 
+
+-	Carbonate Chemistry in Coastal tropical regions ( days  15)	
+o	Activities. Periodic measurements of the psychochemical and biological parameters in coastal zones at subtropical (Bermuda, see knowledge here:) and tropical (Venezuela) latitudes to evaluate the exchange of greenhouse gases (i.e. CO2). 
+ 
+ <img align="left" src="Venezuelan_tropical_coast.png" width="750" height="130">
+ 
+-	Bermuda Atlantic Time series (BATS,  30 days)
+o	Processing sampling for the analysis of biogeochemical parameters, and active participation in the deployment of deep sea mooring.
+o	Activities (1) short intensive independent project (~ 3 month), where I have designed in collaboration with Dr. Michael Lomas, a bioassay experiment to investigate the effect of ocean acidification in the Redfield ratio. For this purpose, I have used conventional methods to collect, process, and quantify biogeochemical variables (i.e. alkalinity and carbonate chemistry, chlorophyll-a, nutrients (NO3- and PO4+, and POM). M. Lomas and collaborators used this preliminary data set as part of a project submitted to the National Science Foundation, USA (Source: Gerry Plumley, Director of CoE-NF POGO programme at BIOS).  
+
+<img align="left" src="BATS_2010_2011.png" width="750" height="130">
+
+-	GHG emitted from field corn (45 days).
+o	Daily in situ measurements of emissions of NO, N2O and CO2 from the soil. Collecting and processing soils samples for the analysis of physical and biogeochemical parameters.
+
+<img align="left" src="Guarico_2006.png" width="750" height="130">
+
 
 #### Peer Reviewed Publications 
  - ***R. Rasse***, et al. (2021). Refining the N budget of the anoxic Cariaco basin (to be submitted to Frontiers in Marine Science)
