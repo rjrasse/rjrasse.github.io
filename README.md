@@ -21,7 +21,7 @@
  -  Nitrogen cycling in Latin America: drivers, impacts and vulnerabilities (CRN 3005). Sponsor: Inter-American for Global Change Research. PIs: J. Ometto (PI), T. Pérez (Co-PI), and others. Award Period: 2012-2017. [Website](http://nitrogen.ccst.inpe.br/)  
  -  Cariaco Basin Time Series. Climatic and Oceanographic Changes in the system of the Cariaco Basin. Sponsor: National Fund for Science and Technology (FONACIT-MCTI No 201200404). PIs:I. Astor (PI), T. Pérez (Co-PI), and others. Award Period: 2012-2015. [Website](http://www.imars.usf.edu/cariaco) 
  -	Bermuda Atlantic Time Series (BATS). This is a long-term oceanographic study by the Bermuda Institute of Ocean Sciences (BIOS).2010-2011. [Website](http://bats.bios.edu/about/)  
- <img align="center" src="Logos_inter_prog.png" width="600" height="60"> \
+ <img align="center" src="Logos_inter_prog.png" width="600" height="60">
 
 #### Cross-Disciplinary International Trainings 
 - On-board training on an Atlantic Meridional Transect (AMT) cruise. Royal Research Ship James Clark Ross and Plymouth Marine Laboratory, UK. 2014.
@@ -29,7 +29,7 @@
 - Nippon Foundation-Partnership for Observation of the Global Ocean (NF-POGO) Centre of Excellence in Observational Oceanography (CoFe). Bermuda. 2011.
 - Third Surface Ocean Lower Atmosphere (SOLAS) Study. France.2007.
 
-<img align="left" src="website_training.png" width="750" height="130"> \
+<img align="left" src="website_training.png" width="750" height="130"> 
 
 
 
@@ -89,12 +89,12 @@ My skills varied according to the Earth’s reservoir studied as described below
 
 
 
-<img align="left" src="AMT_cruises.png" width="750" height="180"> &nbsp;
+<img align="left" src="AMT_cruises.png" width="750" height="160"> &nbsp;
 
 
 
 
-***Carbonate Chemistry in Coastal tropical regions (days  15)***. Activities. Periodic measurements of the psychochemical and biological parameters in coastal zones at subtropical (Bermuda, see knowledge here:) and tropical (Venezuela) latitudes to evaluate the exchange of greenhouse gases (i.e. CO2). 
+***Carbonate Chemistry in Coastal tropical regions (days  15)***. Activities. Periodic measurements of the psychochemical and biological parameters in coastal zones at subtropical (Bermuda, see knowledge here:) and tropical (Venezuela) latitudes to evaluate the exchange of greenhouse gases (i.e. CO2).
 
 
  <img align="left" src="Venezuelan_tropical_coast.png" width="750" height="180">&nbsp;
