@@ -120,7 +120,7 @@ My skills varied according to the Earth’s reservoir studied as described below
 - Mark Altabet. University of Massachusetts.USA. [webpage](https://www.umassd.edu/directory/maltabet/)
 - Bess Ward. Princeton University.USA. [webpage](https://geosciences.princeton.edu/people/bess-b-ward)
 - Laura Bristow. University of Southern Denmark.Denmark. [webpage](https://portal.findresearcher.sdu.dk/en/persons/lbristow)
-- Bo Thamdrup University of Southern Denmark.Denmark. [webpage](https://portal.findresearcher.sdu.dk/en/persons/Bot)
+- Bo Thamdrup. University of Southern Denmark.Denmark. [webpage](https://portal.findresearcher.sdu.dk/en/persons/Bot)
 
 
 #### Peer Reviewed Publications 
