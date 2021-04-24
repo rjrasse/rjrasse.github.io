@@ -143,10 +143,8 @@ the mesopelagic zone of the Atlantic ocean. Open Research Europe [[PDF]](https:/
 
 <img align="left" src="funding_AG.png" width="700" height="140"> &nbsp;
 
-### Visualisation's Credits #####
-Victoria Cheung, Robert Brewing, Giorgio Dall’Olmo, Fernanda Giannini, Adriana Guiliante, Thomas Jessin, José Lozano, Sorena Marquina, Megly Mendoza,  POGO, Antoine Poteau, Rafael Rasse, REFINE project, Avery Snyder, and Bess Ward. ![image](https://user-images.githubusercontent.com/18702671/115964402-a9234a00-a524-11eb-854b-01da0456fdce.png)
-
-
+#### Visualisation's Credits ####
+Victoria Cheung , Robert Brewing, Rodrigo Cab, Giorgio Dall’Olmo, Fernanda Giannini, Adriana Guiliante, Thomas Jessin, José Lozano, Sorena Marquina, Megly Mendoza, POGO, Antoine Poteau, Rafael Rasse, REFINE project, Avery Snyder, SOLAS, and Bess Ward. 
 
 
 
