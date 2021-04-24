@@ -81,7 +81,7 @@ My skills varied according to the Earth’s reservoir studied as described below
 ***Deployment of BGC-Argo floats in the tropical OMZs***. Since 2014, I have been directly involved in coordinating the deployment of the first BGC-Argo floats in the OMZs of the eastern tropical north Atlantic and north Pacific. More recently (2020), I have deployed the first float attached with an UVP and an array of sensors that will allow me to generate key information regarding how diverse mechanisms modulate the cycles of C, O, and N. 
 
 
-<img align="left" src="floats_deployment.png" width="750" height="100"> \
+<img align="left" src="floats_deployment.png" width="750" height="180"> ![image](link)&nbsp;
 
 
 ***Field work, and cruise expeditions***
