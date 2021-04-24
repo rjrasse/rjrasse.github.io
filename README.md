@@ -31,11 +31,6 @@
 
 <img align="left" src="website_training.png" width="750" height="130"> 
 
-
-
-
-
-
 #### Graduate Courses (> 40 credits, Period: 2007-2012) ####
 
  - ***Earth Science*** 
@@ -56,6 +51,11 @@
      - Advanced Inorganic Chemistry 
      - Chemical Kinetics 
      - Chemical Thermodynamics
+
+#### Selected Communication and Outreach 
+- Float posters for global dissemination. 2021.[[PDF]] (https://github.com/rjrasse/rjrasse.github.io/blob/Rafael-Rasse/poster_refine_float_2021_spa.pdf)
+-Participation in the institutional POGO film to promote its role in global ocean observations in the developing world. 2021. [website](https://www.youtube.com/watch?v=d7PY9hTvXgM)  
+- Instructive videos to adequately attach an UVP sensor on the BGC-Argo float [website](https://dropsu.sorbonne-universite.fr/s/eWzKYFQepyHoFS9), as well as to successfully deploy the floats in the open ocean[website](https://dropsu.sorbonne-universite.fr/s/HCFnmH39SQGEYk5).2020.
 
 #### Skills by Topics ####
 My skills varied according to the Earth’s reservoir studied as described below:
@@ -82,25 +82,15 @@ My skills varied according to the Earth’s reservoir studied as described below
 
 <img align="left" src="floats_deployment.png" width="750" height="160"> &nbsp;
 
-
 ***Field work, and cruise expeditions***
 ***Atlantic Meridional Transect 24 and 26. (80 days)***. Activities. AMT24: Collecting suspended POM in the surface and mesopelagic layer of the main Atlantic provinces, and processing optical data collected by WETLabs spectral absorption and attenuation meter (role: participant). AMT26: Collecting suspended POM in the surface and mesopelagic layer of the ETNA OMZ, and measuring optical properties. Building and testing an enclosed filtration system with positive pressure to collect suspended POM (role: independent international researcher).
 
-
-
 <img align="left" src="AMT_cruises.png" width="750" height="160"> &nbsp;
-
-
-
 
 ***Carbonate Chemistry in Coastal tropical regions (days  15)***. Activities. Periodic measurements of the psychochemical and biological parameters in coastal zones at subtropical (Bermuda, see knowledge here:) and tropical (Venezuela) latitudes to evaluate the exchange of greenhouse gases (i.e. CO2).
 
 
- <img align="left" src="Venezuelan_tropical_coast.png" width="750" height="180">&nbsp;
- 
- 
- 
- 
+ <img align="left" src="Venezuelan_tropical_coast.png" width="750" height="180">&nbsp; 
  
 ***Bermuda Atlantic Time series (BATS,  30 days)***. Activities.(1) Processing sampling for the analysis of biogeochemical parameters, and active participation in the deployment of deep sea mooring.(2) short intensive independent project (~ 3 month), where I have designed in collaboration with Dr. Michael Lomas, a bioassay experiment to investigate the effect of ocean acidification in the Redfield ratio. For this purpose, I have used conventional methods to collect, process, and quantify biogeochemical variables (i.e. alkalinity and carbonate chemistry, chlorophyll-a, nutrients (NO3- and PO4+, and POM). M. Lomas and collaborators used this preliminary data set as part of a project submitted to the National Science Foundation, USA (Source: Gerry Plumley, Director of CoE-NF POGO programme at BIOS).  
 
