@@ -89,7 +89,7 @@ My skills varied according to the Earth’s reservoir studied as described below
 
 
 
-<img align="left" src="AMT_cruises.png" width="750" height="180"> <br/>
+<img align="left" src="AMT_cruises.png" width="750" height="180"> &nbsp;
 
 
 
@@ -97,7 +97,7 @@ My skills varied according to the Earth’s reservoir studied as described below
 ***Carbonate Chemistry in Coastal tropical regions (days  15)***. Activities. Periodic measurements of the psychochemical and biological parameters in coastal zones at subtropical (Bermuda, see knowledge here:) and tropical (Venezuela) latitudes to evaluate the exchange of greenhouse gases (i.e. CO2). 
 
 
- <img align="left" src="Venezuelan_tropical_coast.png" width="750" height="180"> (<-- two spaces)
+ <img align="left" src="Venezuelan_tropical_coast.png" width="750" height="180">&nbsp;
  
  
  
@@ -106,26 +106,24 @@ My skills varied according to the Earth’s reservoir studied as described below
 ***Bermuda Atlantic Time series (BATS,  30 days)***. Activities.(1) Processing sampling for the analysis of biogeochemical parameters, and active participation in the deployment of deep sea mooring.(2) short intensive independent project (~ 3 month), where I have designed in collaboration with Dr. Michael Lomas, a bioassay experiment to investigate the effect of ocean acidification in the Redfield ratio. For this purpose, I have used conventional methods to collect, process, and quantify biogeochemical variables (i.e. alkalinity and carbonate chemistry, chlorophyll-a, nutrients (NO3- and PO4+, and POM). M. Lomas and collaborators used this preliminary data set as part of a project submitted to the National Science Foundation, USA (Source: Gerry Plumley, Director of CoE-NF POGO programme at BIOS).  
 
 
-
-
-<img align="left" src="BATS_2010_2011.png" width="750" height="100">
+<img align="left" src="BATS_2010_2011.png" width="750" height="180"> &nbsp;
 
 
 ***Atmospheric deposition at the northeast of the anoxic Cariaco basin (3 months)***. Activities. Performing the best sampling location and strategy, to ultimately collect atmospheric samples and quantify atmospheric deposition of dissolved nutrients over the anoxic Cariaco basin (role: scientist leader).
 
 
-<img align="left" src="Atmosphera_Cariaco.png" width="750" height="100">
+<img align="left" src="Atmosphera_Cariaco.png" width="750" height="180"> &nbsp;
 
 
 ***Dissolved nitrogen loaded by tropical tributaries rivers (12 months)***. Activities. Monthly measurements of the in-situ physicochemical parameters, and collecting samples for the analysis of dissolved nitrogen and carbon, and suspended organic matter (role: scientist leader). 
 
 
-<img align="left" src="Rivers_Cariaco.png" width="750" height="100">
+<img align="left" src="Rivers_Cariaco.png" width="750" height="180"> &nbsp;
 
 
-***GHG emitted from field corn (45 days)***. Daily in situ measurements of emissions of NO, N2O and CO2 from the soil. Collecting and processing soils samples for the analysis of physical and biogeochemical parameters.
+***GHG emitted from field corn (45 days)***. Daily in situ measurements of emissions of NO, N2O and CO2 from the soil. Collecting and processing soils samples for the analysis of physical and biogeochemical parameters. &nbsp;
 
-<img align="left" src="Guarico_2006.png" width="750" height="100">
+<img align="left" src="Guarico_2006.png" width="750" height="180"> &nbsp;
 
 
 
