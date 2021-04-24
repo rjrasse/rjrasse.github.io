@@ -58,7 +58,7 @@ My skills varied according to the Earth’s reservoir studied as described below
  ***Ocean-Sea*** 
    -	Exploiting and merging standard and new generation of Biogeochemical Argo floats (ground-breaking approach) and remote sensing data products  to explore and  investigate remote oceanic regions in the tropics. 
    -	Using CTD-rosette to study the biogeochemical and optical characteristics of the surface and mesopelagic layer of the ocean.
-   -	
+   	
  ***Atmosphere***. Applicating high volume cascade impactor, only-wet deposition sampler, meteorological station, and satellite products (i.e. backward air-masses trajectories) to investigate.
  
  ***Rivers***. Automatic pumping sampler, multiparametric ultrasound, general Oceanic speedometer, and satellite products on the rivers’ basins (i.e. precipitation)
@@ -73,30 +73,36 @@ My skills varied according to the Earth’s reservoir studied as described below
 -	Automatic titration to determine alkalinity  and investigate carbonate chemistry in rivers and seawater.
 
 #### Deployment of biogeochemical (BGC) Argo floats, field work, and cruise expeditions ####
-Since the begging of my career, I have been leading and participating in field works to investigate biogeochemical cycles in the main reservoirs of the planet (i.e. land, ocean, rivers, and atmosphere) from local, regional, and global scales and over a continuum of time scales (from days to years). More recently, I have been involved in the deployment of BGC-Argo floats.   
+> <div style="text-align: justify"> Since the begging of my career, I have been leading and participating in field works to investigate biogeochemical cycles in the main reservoirs of the planet (i.e. land, ocean, rivers, and atmosphere) from local, regional, and global scales and over a continuum of time scales (from days to years). More recently, I have been involved in the deployment of BGC-Argo floats.</div>   
 
 ***Deployment of BGC-Argo floats in the tropical OMZs***
+> <div style="text-align: justify"> Since 2014, I have been directly involved in coordinating the deployment of the first BGC-Argo floats in the OMZs of the eastern tropical north Atlantic and north Pacific. More recently (2020), I have deployed the first float attached with an UVP and an array of sensors that will allow me to generate key information regarding how diverse mechanisms modulate the cycles of C, O, and N. </div>
 
-Since 2014, I have been directly involved in coordinating the deployment of the first BGC-Argo floats in the OMZs of the eastern tropical north Atlantic and north Pacific. More recently (2020), I have deployed the first float attached with an UVP and an array of sensors that will allow me to generate key information regarding how diverse mechanisms modulate the cycles of C, O, and N. 
+
 <img align="left" src="floats_deployment.png" width="750" height="130"> 
-
-
 
 
 ***Field work, and cruise expeditions***
 -	Atlantic Meridional Transect (AMT) 24 and 26. (80 days)
-o	Activities. AMT24: Collecting suspended POM in the surface and mesopelagic layer of the main Atlantic provinces, and processing optical data collected by WETLabs spectral absorption and attenuation meter (role: participant). AMT26: Collecting suspended POM in the surface and mesopelagic layer of the ETNA OMZ, and measuring optical properties. Building and testing an enclosed filtration system with positive pressure to collect suspended POM (role: independent international researcher).
+> <div style="text-align: justify"> Activities. AMT24: Collecting suspended POM in the surface and mesopelagic layer of the main Atlantic provinces, and processing optical data collected by WETLabs spectral absorption and attenuation meter (role: participant). AMT26: Collecting suspended POM in the surface and mesopelagic layer of the ETNA OMZ, and measuring optical properties. Building and testing an enclosed filtration system with positive pressure to collect suspended POM (role: independent international researcher).  </div>
+
+
+
 <img align="left" src="AMT_cruises.png" width="750" height="130">
 
 
 -	Carbonate Chemistry in Coastal tropical regions ( days  15)	
-o	Activities. Periodic measurements of the psychochemical and biological parameters in coastal zones at subtropical (Bermuda, see knowledge here:) and tropical (Venezuela) latitudes to evaluate the exchange of greenhouse gases (i.e. CO2). 
+> <div style="text-align: justify"> Activities. Periodic measurements of the psychochemical and biological parameters in coastal zones at subtropical (Bermuda, see knowledge here:) and tropical (Venezuela) latitudes to evaluate the exchange of greenhouse gases (i.e. CO2). </div>
+
+
  <img align="left" src="Venezuelan_tropical_coast.png" width="750" height="130">
  
  
 -	Bermuda Atlantic Time series (BATS,  30 days)
-o	Processing sampling for the analysis of biogeochemical parameters, and active participation in the deployment of deep sea mooring.
-o	Activities (1) short intensive independent project (~ 3 month), where I have designed in collaboration with Dr. Michael Lomas, a bioassay experiment to investigate the effect of ocean acidification in the Redfield ratio. For this purpose, I have used conventional methods to collect, process, and quantify biogeochemical variables (i.e. alkalinity and carbonate chemistry, chlorophyll-a, nutrients (NO3- and PO4+, and POM). M. Lomas and collaborators used this preliminary data set as part of a project submitted to the National Science Foundation, USA (Source: Gerry Plumley, Director of CoE-NF POGO programme at BIOS).  
+Activities.(1) Processing sampling for the analysis of biogeochemical parameters, and active participation in the deployment of deep sea mooring.(2) short intensive independent project (~ 3 month), where I have designed in collaboration with Dr. Michael Lomas, a bioassay experiment to investigate the effect of ocean acidification in the Redfield ratio. For this purpose, I have used conventional methods to collect, process, and quantify biogeochemical variables (i.e. alkalinity and carbonate chemistry, chlorophyll-a, nutrients (NO3- and PO4+, and POM). M. Lomas and collaborators used this preliminary data set as part of a project submitted to the National Science Foundation, USA (Source: Gerry Plumley, Director of CoE-NF POGO programme at BIOS).  
+
+
+
 <img align="left" src="BATS_2010_2011.png" width="750" height="130">
 
 
