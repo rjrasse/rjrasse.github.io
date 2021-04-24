@@ -61,7 +61,8 @@
 
 #### Peer Reviewed Publications 
  - ***R. Rasse***, et al. (2021). Refining the N budget of the anoxic Cariaco basin (to be submitted to Frontiers in Marine Science)
- - J. Ross, G. Dall’Olmo, K. Haines and ***R. Rasse*** (2021). Measuring POC and its uncertainties in the mesopelagic zone of the Atlantic Ocean. Limnology and Oceanography: Methods (conditional acceptance, revision submitted). http://www.amt-uk.org/Publications  
+ -  P. Strubinger Sandoval, G. Dall’Olmo, K. Haines, ***R. Rasse***, and J. Ross (2021).Uncertainties of particulate organic carbon concentrations in
+the mesopelagic zone of the Atlantic ocean. [[PDF]](https://openreseurope.s3.amazonaws.com/manuscripts/14465/65b5d135-893e-4724-b844-b79beb282bf2_13395_-_giorgio_dall_olmo.pdf?doi=10.12688/openreseurope.13395.1&numberOfBrowsableCollections=0&numberOfBrowsableInstitutionalCollections=0&numberOfBrowsableGateways=8)
  - ***R. Rasse***, H. Claustre, and A. Poteau (2020). The suspended small-particle layer in the oxygen-poor Black Sea: a proxy for delineating the effective N2-yielding section. Biogeoscience.[[PDF]](https://bg.copernicus.org/articles/17/6491/2020/bg-17-6491-2020.pdf)
  - ***R. Rasse***, G. and Dall’Olmo (2019). Do oceanic hypoxic regions act as barriers for sinking particles? A case study in the eastern tropical north Atlantic. Global Biogeochemical Cycles.[[PDF]](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019GB006305)
  - ***R. Rasse***, T. T. Pérez, A. Guiliante, and L. Donoso (2018). Total dissolved atmospheric nitrogen deposition in the anoxic Cariaco Basin. Atmospheric Environment. 179, 118-131.[[PDF]](https://github.com/rjrasse/rjrasse.github.io/blob/Rafael-Rasse/Rasse_et_al%202018.pdf)
