@@ -141,4 +141,4 @@ the mesopelagic zone of the Atlantic ocean. Open Research Europe.1:43. [[PDF]](h
 <img align="left" src="funding_AG.png" width="700" height="140"> &nbsp;
 
 #### Visualisations Credits 
-Victoria Cheung, Robert Brewing, Rodrigo Cab, Hervé Claustre, Giorgio Dall’Olmo, Fernanda Giannini, Adriana Guiliante, Thomas Jessin, José Lozano, Sorena Marquina, Megly Mendoza, POGO, Antoine Poteau, Rafael Rasse, REFINE project, Avery Snyder, SOLAS, and Bess Ward. 
+AMT, BATS, Carico Time series, Victoria Cheung, Robert Brewing, Rodrigo Cab, Hervé Claustre, Giorgio Dall’Olmo, Fernanda Giannini, Adriana Guiliante, Thomas Jessin, José Lozano, Sorena Marquina, Megly Mendoza, N-NET, POGO, Antoine Poteau, Rafael Rasse, REFINE project, Avery Snyder, SOLAS, and Bess Ward. 
