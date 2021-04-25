@@ -136,7 +136,7 @@ the mesopelagic zone of the Atlantic ocean. Open Research Europe.1:43. [[PDF]](h
  - ***R.  Rasse***, R. Domínguez, A. Herize, M. Tosta, D.  Brusco, and G. Chuchani (2007). “Catalysis by hydrogen chloride in the gas-phase elimination kinetics of 2-phenyl-2-propanol and 3-methyl-1-buten-3-ol”. Journal of Physical Organic Chemistry. 20: 44-48.[[PDF]](https://github.com/rjrasse/rjrasse.github.io/blob/Rafael-Rasse/Rasse_et_al_2007.pdf) 
 
 #### Published Dataset
-G. Dall'Olmo;  G. Ross, Rasse Boada R. J.  and Strubinger P.A. 2021. Particulate organic carbon (POC) measurements from CTD bottle samples collected during the Atlantic Meridional Transect cruise AMT24 (JR20140922/JR303) between September and November 2014. [[data]](https://www.bodc.ac.uk/data/published_data_library/catalogue/10.5285/bd2d14a3-18c9-6a53-e053-6c86abc01c89/)
+G. Dall'Olmo;  G. Ross, ***Rasse Boada R. J.*** and Strubinger P.A. 2021. Particulate organic carbon (POC) measurements from CTD bottle samples collected during the Atlantic Meridional Transect cruise AMT24 (JR20140922/JR303) between September and November 2014. [[data]](https://www.bodc.ac.uk/data/published_data_library/catalogue/10.5285/bd2d14a3-18c9-6a53-e053-6c86abc01c89/)
 
 #### Venezuelan and International Funding Agencies (Trainings and Fellowships)
 
