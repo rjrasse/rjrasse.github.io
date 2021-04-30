@@ -119,7 +119,7 @@ My research into different aspects of the Earth’s reservoir has led me to deve
 
 ***-	GHG emitted from cornfield (45 days)***. Daily in situ measurements of emissions of NO, N2O and CO2 from soil. Collecting and processing soil samples for the analysis of physical and biogeochemical parameters. &nbsp;
 
-<img align="left" src="Guarico_2006.png" width="750" height="180"> &nbsp;
+<img align="left" src="Guarico_Venezuela.png" width="750" height="180"> &nbsp;
 
 #### Ongoing International Collaborations
 - Hervé Claustre.LOV-CNRS.France. [webpage](https://lov.imev-mer.fr/web/member/herve-claustre/)
