@@ -11,7 +11,7 @@
 ><div style="text-align: justify"> Biogeochemical cycles of carbon, oxygen, and nitrogen in oxygen minimum zones (OMZs) and anoxic basins.</div>
 
 #### Career Goal
-> <div style="text-align: justify"> Contributing to unravel the key set of mechanisms that concurrently modulate the carbon, oxygen, and nitrogen cycles in OMZs and anoxic basins to ultimately contribute to refine their mechanistic predictions. </div>
+> <div style="text-align: justify"> Contributing to unravel the key set of mechanisms that concurrently modulate the carbon, oxygen, and nitrogen cycles in OMZs and anoxic basins to ultimately contribute to refining their mechanistic predictions. </div>
 
 #### Multidisciplinary individual projects 
  - Marie Sklodowska-Curie Fellowship. Key factors driving particulate organic matter fluxes and related dinitrogen losses in the main anoxic oxygen minimum zones of the world oceans (Noceanic). Award Period: 2019-2021. ***PI: R. Rasse***. France.  
@@ -26,7 +26,7 @@
  -	Bermuda Atlantic Time Series (BATS). This is a long-term oceanographic study by the Bermuda Institute of Ocean Sciences (BIOS).2010-2011. [Website](http://bats.bios.edu/about/)  
  <img align="center" src="Logos_inter_prog.png" width="600" height="60">
 
-#### Cross-Disciplinary International Trainings 
+#### International Cross-Disciplinary Training
 - On-board training on an Atlantic Meridional Transect (AMT) cruise. Royal Research Ship James Clark Ross and Plymouth Marine Laboratory, UK. 2014.
 - Pan-American Advanced Studies Institute (PASI) Programme “Toward a Sustained Operational River-to-Shelf Observation & Prediction System for the Amazon. Brazil. 2013.
 - Nippon Foundation-Partnership for Observation of the Global Ocean (NF-POGO) Centre of Excellence in Observational Oceanography (CoFe). Bermuda. 2011.
