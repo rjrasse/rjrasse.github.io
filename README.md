@@ -96,7 +96,7 @@ My research into different aspects of the Earth’s reservoir has led me to deve
 ***Carbonate Chemistry in Coastal tropical regions (15 days)***. Activities. Periodic measurements of the physicochemical and biological parameters in coastal zones at subtropical (Bermuda, see acknowledgements here:[website](https://www.nature.com/articles/nclimate2050#Ack1)) and tropical (Venezuela) latitudes to evaluate the exchange of greenhouse gases (i.e. CO2).
 
 
- <img align="left" src="Coast_Venezuela.png" width="750" height="180">&nbsp; 
+ <img align="left" src="Coast_Venezuela.png" width="750" height="180"> &nbsp; 
  
 ***Bermuda Atlantic Time series (BATS,  30 days)***.
 - Processing sampling for the analysis of biogeochemical parameters, and active participation in the deployment of deep sea mooring. 
