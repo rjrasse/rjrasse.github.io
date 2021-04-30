@@ -86,12 +86,12 @@ My research into different aspects of the Earth’s reservoir has led me to deve
 
 ***Deployment of BGC-Argo floats in the tropical OMZs***. Since 2014, I have been directly involved in coordinating the deployment of the first BGC-Argo floats in OMZs of the eastern tropical north Atlantic and north Pacific. More recently (2020), I deployed the first float attached with an underwater video profiler (UVP) along with an array of sensors that will allow me to generate key information on how diverse mechanisms modulate the cycles of C, O, and N. [video](https://github.com/rjrasse/rjrasse.github.io/blob/Rafael-Rasse/cts5-float-2nd-kixhffmg_LSDjZSZ4.mp4) &nbsp; 
 
-<img align="left" src="floats_deployment.png" width="750" height="160"> &nbsp;
+<img align="left" src="BGC_Floats.png" width="750" height="160"> &nbsp;
 
 ***Field work, and cruise expeditions***
 ***Atlantic Meridional Transect 24 and 26. (80 days)***. Activities. AMT24: Collecting suspended POM in the surface and mesopelagic layer of the main Atlantic provinces, and processing optical data collected by WETLabs spectral absorption and attenuation meter (role: participant). AMT26: Collecting suspended POM in the surface and mesopelagic layer of the ETNA OMZ, and measuring optical properties. Building and testing an enclosed filtration system with positive pressure to collect suspended POM (role: independent international researcher). 
 
-<img align="left" src="AMT_cruises.png" width="750" height="160"> &nbsp;
+<img align="left" src="AMT.png" width="750" height="160"> &nbsp;
 
 ***Carbonate Chemistry in Coastal tropical regions (15 days)***. Activities. Periodic measurements of the physicochemical and biological parameters in coastal zones at subtropical (Bermuda, see acknowledgements here:[website](https://www.nature.com/articles/nclimate2050#Ack1)) and tropical (Venezuela) latitudes to evaluate the exchange of greenhouse gases (i.e. CO2).
 
