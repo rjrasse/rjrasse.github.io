@@ -79,9 +79,9 @@ My skills varied according to the Earth’s reservoir studied as described below
 -	Automatic titration to determine alkalinity  and investigate carbonate chemistry in rivers and seawater.
 
 #### Deployment of Biogeochemical (BGC) Argo Floats, Field Work, and Cruise Expeditions ####
-<div style="text-align: justify"> Since the begging of my career, I have been leading and participating in field works to investigate biogeochemical cycles in the main reservoirs of the planet (i.e. land, ocean, rivers, and atmosphere) from local, regional, and global scales and over a continuum of time scales (from days to years). More recently, I have been involved in the deployment of BGC-Argo floats.</div>   
+<div style="text-align: justify"> Since the beginning of my career, I have been leading and participating in fieldwork to investigate biogeochemical cycles in the planet’s main reservoirs (i.e. land, ocean, rivers, and atmosphere) on local, regional, and global scales and over a continuum of timescales (from days to years). More recently, I have been involved in the deployment of BGC-Argo floats. </div>   
 
-***Deployment of BGC-Argo floats in the tropical OMZs***. Since 2014, I have been directly involved in coordinating the deployment of the first BGC-Argo floats in the OMZs of the eastern tropical north Atlantic and north Pacific. More recently (2020), I have deployed the first float attached with an UVP and an array of sensors that will allow me to generate key information regarding how diverse mechanisms modulate the cycles of C, O, and N. [video](https://github.com/rjrasse/rjrasse.github.io/blob/Rafael-Rasse/cts5-float-2nd-kixhffmg_LSDjZSZ4.mp4) &nbsp; 
+***Deployment of BGC-Argo floats in the tropical OMZs***. Since 2014, I have been directly involved in coordinating the deployment of the first BGC-Argo floats in OMZs of the eastern tropical north Atlantic and north Pacific. More recently (2020), I deployed the first float attached with an underwater video profiler (UVP) along with an array of sensors that will allow me to generate key information on how diverse mechanisms modulate the cycles of C, O, and N. [video](https://github.com/rjrasse/rjrasse.github.io/blob/Rafael-Rasse/cts5-float-2nd-kixhffmg_LSDjZSZ4.mp4) &nbsp; 
 
 <img align="left" src="floats_deployment.png" width="750" height="160"> &nbsp;
 
