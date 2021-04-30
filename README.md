@@ -13,17 +13,17 @@
 #### Career Goal
 > <div style="text-align: justify"> Contributing to unravel the key set of mechanisms that concurrently modulate the carbon, oxygen, and nitrogen cycles in OMZs and anoxic basins to ultimately contribute to refining their mechanistic predictions. </div>
 
-#### Multidisciplinary individual projects 
- - Marie Sklodowska-Curie Fellowship. Key factors driving particulate organic matter fluxes and related dinitrogen losses in the main anoxic oxygen minimum zones of the world oceans (Noceanic). Award Period: 2019-2021. ***PI: R. Rasse***. France.  
- - Royal society. Autonomous observations of oceanic carbon fluxes in the oxygen minimum zones (Atlantic OMZ). Award Period: 2016-2018. ***PI: R. Rasse***. UK.
- - Monitoring seasonal changes of carbonate chemistry off tropical coasts: implications for emissions of CO2 to the atmosphere.Sponsor: Venezuelan Institute for Scientific Research. Award Period:(2015, cancelled). ***PI:R. Rasse***. Venezuela
+#### Main Independent International Multidisciplinary Projects 
+- Marie Sklodowska-Curie Fellowship. Key factors driving particulate organic matter fluxes and related dinitrogen losses in the main anoxic oxygen minimum zones of the world oceans (Noceanic). Award Period: 2019-2021.***PI: R. Rasse***. France. 
+- Royal Society. Autonomous observations of oceanic carbon fluxes in the oxygen minimum zones (Atlantic OMZ). Award Period: 2016-2018. ***PI: R. Rasse***. UK. 
+- Monitoring seasonal changes of carbonate chemistry off tropical coasts: implications for emissions of CO2 to the atmosphere.Sponsor: Venezuelan Institute for Scientific Research. Award Period:(2015, cancelled). ***PI:R. Rasse***. Venezuela
 
 #### Pluridisciplinary Research-Programmes
- -  REFINE. Robots explore plankton-driven fluxes in the marine twilight zones. PI: H. Claustre. Award Period: 2019-2023. [Website](https://erc-refine.eu/new/) 
- - The Atlantic Meridional Transect (AMT) multidisciplinary programme, which undertakes biological, chemical and physical oceanographic research during an annual voyage between the UK and destinations in the South Atlantic.PI:A. Rees.2014-2016. [website](https://www.amt-uk.org/) 
- -  Nitrogen cycling in Latin America: drivers, impacts and vulnerabilities (CRN 3005). Sponsor: Inter-American for Global Change Research. PIs: J. Ometto (PI), T. Pérez (Co-PI), and others. Award Period: 2012-2017. [Website](http://nitrogen.ccst.inpe.br/)  
- -  Cariaco Basin Time Series. Climatic and Oceanographic Changes in the system of the Cariaco Basin. Sponsor: National Fund for Science and Technology (FONACIT-MCTI No 201200404). PIs:I. Astor (PI), T. Pérez (Co-PI), and others. Award Period: 2012-2015. [Website](http://www.imars.usf.edu/cariaco) 
- -	Bermuda Atlantic Time Series (BATS). This is a long-term oceanographic study by the Bermuda Institute of Ocean Sciences (BIOS).2010-2011. [Website](http://bats.bios.edu/about/)  
+ -  -	REFINE. Robots Explore plankton-driven Fluxes in the marine twilight zoNE. PI: Hervé Claustre. Award Period: 2019-2024.[Website](https://erc-refine.eu/new/) 
+ - -	Atlantic Meridional Transect. This multi-decadal oceanographic programme undertook biological, chemical and physical research during annual voyages between the UK and destinations in the South Atlantic. 2014, 2016-2018. PI: Andy Rees [website](https://www.amt-uk.org/) 
+ -  -	Nitrogen cycling in Latin America: drivers, impacts and vulnerabilities (CRN 3005). Sponsor: Inter-American for Global Change Research. PIs: Dr J. Ometto (PI), Dr T. Pérez (Co-PI) and others. Award Period: 2012-2017.[Website](http://nitrogen.ccst.inpe.br/)  
+ -  -	Cariaco Basin Time Series. Climatic and Oceanographic Changes in this basin. This programme sought to understand the relationship between surface primary production, physical forcing variables like the wind, and the settling flux of particles in this unique location. Sponsor: National Fund for Science and Technology (FONACIT-MCTI No 201200404). PIs: Dr Irene Astor (PI), Dr T. Pérez (Co-PI) and others. [Website](http://www.imars.usf.edu/cariaco) 
+ -	-	Bermuda Atlantic Time Series (BATS). A long-term oceanographic study by the Bermuda Institute of Ocean Sciences (BIOS). 2010-2011.[Website](http://bats.bios.edu/about/)  
  <img align="center" src="Logos_inter_prog.png" width="600" height="60">
 
 #### International Cross-Disciplinary Training
