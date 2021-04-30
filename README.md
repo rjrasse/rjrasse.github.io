@@ -5,7 +5,10 @@
 > <div style="text-align: justify"> I am a chemist with pluridisciplinary skills, holding a PhD in Chemistry (Earth Science) and a Postgraduate Certificate in Ocean Observatories. My solid multidisciplinary background and skills allow me to have a wide understanding and a unique integrative view on: (1) how various mechanisms concurrently drive the biogeochemical cycles of key elements in the planet’s main reservoirs (i.e. atmosphere, land, ocean and rivers); (2) how such cycles are interconnected within (and between) the reservoirs and partially drive the Earth’s climate; and (3) key biogeochemical knowledge gaps, which I ultimately aim to fill by proposing novel solutions combining traditional and ground-breaking cross-disciplinary approaches, </div> ***particularly in the poorly oxygenated tropical oceans***. 
 
 #### General Topic of Research ####
-> <div style="text-align: justify"> Investigating the biogeochemical cycles of carbon and nitrogen in the main Earth’s reservoirs by combining conventional and revolutionary approaches of quantification. </div>
+> <div style="text-align: justify"> Investigating the biogeochemical cycles of carbon and nitrogen in the Earth’s main reservoirs by combining conventional and revolutionary approaches of quantification. </div>
+
+#### Current and Major Topic of Interest ####
+><div style="text-align: justify"> Biogeochemical cycles of carbon, oxygen, and nitrogen in oxygen minimum zones (OMZs) and anoxic basins.</div>
 
 #### Career Goal
 > <div style="text-align: justify"> Contributing to unravel the key set of mechanisms that concurrently modulate the carbon, oxygen, and nitrogen cycles in OMZs and anoxic basins to ultimately contribute to refine their mechanistic predictions. </div>
