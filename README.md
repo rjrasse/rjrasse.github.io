@@ -19,11 +19,11 @@
 - Monitoring seasonal changes of carbonate chemistry off tropical coasts: implications for emissions of CO2 to the atmosphere.Sponsor: Venezuelan Institute for Scientific Research. Award Period:(2015, cancelled). ***PI:R. Rasse***. Venezuela
 
 #### Pluridisciplinary Research-Programmes
- -  -	REFINE. Robots Explore plankton-driven Fluxes in the marine twilight zoNE. PI: Hervé Claustre. Award Period: 2019-2024.[Website](https://erc-refine.eu/new/) 
- - -	Atlantic Meridional Transect. This multi-decadal oceanographic programme undertook biological, chemical and physical research during annual voyages between the UK and destinations in the South Atlantic. 2014, 2016-2018. PI: Andy Rees [website](https://www.amt-uk.org/) 
- -  -	Nitrogen cycling in Latin America: drivers, impacts and vulnerabilities (CRN 3005). Sponsor: Inter-American for Global Change Research. PIs: Dr J. Ometto (PI), Dr T. Pérez (Co-PI) and others. Award Period: 2012-2017.[Website](http://nitrogen.ccst.inpe.br/)  
- -  -	Cariaco Basin Time Series. Climatic and Oceanographic Changes in this basin. This programme sought to understand the relationship between surface primary production, physical forcing variables like the wind, and the settling flux of particles in this unique location. Sponsor: National Fund for Science and Technology (FONACIT-MCTI No 201200404). PIs: Dr Irene Astor (PI), Dr T. Pérez (Co-PI) and others. [Website](http://www.imars.usf.edu/cariaco) 
- -	-	Bermuda Atlantic Time Series (BATS). A long-term oceanographic study by the Bermuda Institute of Ocean Sciences (BIOS). 2010-2011.[Website](http://bats.bios.edu/about/)  
+ - REFINE. Robots Explore plankton-driven Fluxes in the marine twilight zoNE. PI: Hervé Claustre. Award Period: 2019-2024.[Website](https://erc-refine.eu/new/) 
+ - Atlantic Meridional Transect. This multi-decadal oceanographic programme undertook biological, chemical and physical research during annual voyages between the UK and destinations in the South Atlantic. 2014, 2016-2018. PI: Andy Rees [website](https://www.amt-uk.org/) 
+ - Nitrogen cycling in Latin America: drivers, impacts and vulnerabilities (CRN 3005). Sponsor: Inter-American for Global Change Research. PIs: Dr J. Ometto (PI), Dr T. Pérez (Co-PI) and others. Award Period: 2012-2017.[Website](http://nitrogen.ccst.inpe.br/)  
+ - Cariaco Basin Time Series. Climatic and Oceanographic Changes in this basin. This programme sought to understand the relationship between surface primary production, physical forcing variables like the wind, and the settling flux of particles in this unique location. Sponsor: National Fund for Science and Technology (FONACIT-MCTI No 201200404). PIs: Dr Irene Astor (PI), Dr T. Pérez (Co-PI) and others. [Website](http://www.imars.usf.edu/cariaco) 
+ -	Bermuda Atlantic Time Series (BATS). A long-term oceanographic study by the Bermuda Institute of Ocean Sciences (BIOS). 2010-2011.[Website](http://bats.bios.edu/about/)  
  <img align="center" src="Logos_inter_prog.png" width="600" height="60">
 
 #### International Cross-Disciplinary Training
@@ -57,26 +57,29 @@
 
 #### Selected Communication and Outreach 
 - Float posters for global dissemination. 2021.[[PDF]](https://github.com/rjrasse/rjrasse.github.io/blob/Rafael-Rasse/poster_refine_float_2021_spa.pdf)
-- Participation in the institutional POGO film to promote its role in global ocean observations in the developing world. 2021. [video](https://www.youtube.com/watch?v=d7PY9hTvXgM)  
-- Instructive videos to adequately attach an UVP sensor on the BGC-Argo float [video](https://dropsu.sorbonne-universite.fr/s/eWzKYFQepyHoFS9), as well as to successfully deploy the floats in the open ocean [video](https://dropsu.sorbonne-universite.fr/s/HCFnmH39SQGEYk5).2020.
+- Participation in an institutional POGO film to promote its role in global ocean observations in the developing world. 2021. [video](https://www.youtube.com/watch?v=d7PY9hTvXgM)  
+- Instructive videos on how to securely attach a UVP sensor on a BGC-Argo float [video](https://dropsu.sorbonne-universite.fr/s/eWzKYFQepyHoFS9), as well as how to successfully deploy floats in the open ocean. 2020. [video](https://dropsu.sorbonne-universite.fr/s/HCFnmH39SQGEYk5).2020.
 
 #### Skills by Topics ####
-My skills varied according to the Earth’s reservoir studied as described below:
+My research into different aspects of the Earth’s reservoir has led me to develop a range of skills, as described below:
 
- ***Ocean-Sea***. (1) Exploiting and merging standard and new generation of Biogeochemical Argo floats (ground-breaking approach) and remote sensing data products  to explore and  investigate remote oceanic regions in the tropics. (2) Using CTD-rosette to study the biogeochemical and optical characteristics of the surface and mesopelagic layer of the ocean.
+
+ ***Ocean-Sea***. 
+ -	Exploiting and merging standard and new-generation Biogeochemical Argo floats (ground-breaking approach) and remote-sensing data products to explore and investigate remote oceanic regions in the tropics.
+ -	Using CTD-rosette measurements to study the biogeochemical and optical characteristics of the surface and mesopelagic layer of the ocean.
    	
- ***Atmosphere***. Applicating high volume cascade impactor, only-wet deposition sampler, meteorological station, and satellite products (i.e. backward air-masses trajectories) to investigate.
+ ***Atmosphere***. Applying high-volume cascade impactor, only-wet deposition sampler, meteorological station, and satellite products (i.e. backward air-masses trajectories) during investigations.
  
- ***Rivers***. Automatic pumping sampler, multiparametric ultrasound, general Oceanic speedometer, and satellite products on the rivers’ basins (i.e. precipitation)
+ ***Rivers***. Automatic pumping sampler, multiparametric ultrasound, general oceanic speedometer, and satellite products for rivers basins (i.e. precipitation).  
  
- ***Land***. Closed chamber methods to collect and then measure greenhouse gases emitted from corn fields via gas chromatography (i.e. CO2 & N2O) .
+ ***Land***. Closed chamber methods to collect and then measure greenhouse gases emitted from corn fields via gas chromatography (i.e. CO2 & N2O).
 
 #### Instruments in the Lab ####
 -	Technicon Auto-Analyzer II to analyse macronutrients.
 -	UV combustion system to convert dissolved organic matter into dissolved inorganic ions. 
 -	Gas chromatography to quantify dissolved organic matter and ions, and gases (CO2 & N2O ) 
--	CHN analyser  to quantify particulate organic matter.
--	Automatic titration to determine alkalinity  and investigate carbonate chemistry in rivers and seawater.
+-	CHN analyser to quantify particulate organic matter.
+-	Automatic titration to determine alkalinity and investigate carbonate chemistry in rivers and seawater.
 
 #### Deployment of Biogeochemical (BGC) Argo Floats, Field Work, and Cruise Expeditions ####
 <div style="text-align: justify"> Since the beginning of my career, I have been leading and participating in fieldwork to investigate biogeochemical cycles in the planet’s main reservoirs (i.e. land, ocean, rivers, and atmosphere) on local, regional, and global scales and over a continuum of timescales (from days to years). More recently, I have been involved in the deployment of BGC-Argo floats. </div>   
@@ -86,34 +89,35 @@ My skills varied according to the Earth’s reservoir studied as described below
 <img align="left" src="floats_deployment.png" width="750" height="160"> &nbsp;
 
 ***Field work, and cruise expeditions***
-***Atlantic Meridional Transect 24 and 26. (80 days)***. Activities. AMT24: Collecting suspended POM in the surface and mesopelagic layer of the main Atlantic provinces, and processing optical data collected by WETLabs spectral absorption and attenuation meter (role: participant). AMT26: Collecting suspended POM in the surface and mesopelagic layer of the ETNA OMZ, and measuring optical properties. Building and testing an enclosed filtration system with positive pressure to collect suspended POM (role: independent international researcher).
+***Atlantic Meridional Transect 24 and 26. (80 days)***. Activities. AMT24: Collecting suspended POM in the surface and mesopelagic layer of the main Atlantic provinces, and processing optical data collected by WETLabs spectral absorption and attenuation meter (role: participant). AMT26: Collecting suspended POM in the surface and mesopelagic layer of the ETNA OMZ, and measuring optical properties. Building and testing an enclosed filtration system with positive pressure to collect suspended POM (role: independent international researcher). 
 
 <img align="left" src="AMT_cruises.png" width="750" height="160"> &nbsp;
 
-***Carbonate Chemistry in Coastal tropical regions (15 days)***. Activities. Periodic measurements of the psychochemical and biological parameters in coastal zones at subtropical (Bermuda, see Acknowledgements here:[website](https://www.nature.com/articles/nclimate2050#Ack1)) and tropical (Venezuela) latitudes to evaluate the exchange of greenhouse gases (i.e. CO2).
+***Carbonate Chemistry in Coastal tropical regions (15 days)***. Activities. Periodic measurements of the physicochemical and biological parameters in coastal zones at subtropical (Bermuda, see acknowledgements here:[website](https://www.nature.com/articles/nclimate2050#Ack1)) and tropical (Venezuela) latitudes to evaluate the exchange of greenhouse gases (i.e. CO2).
 
 
  <img align="left" src="Coast_Venezuela.png" width="750" height="180">&nbsp; 
  
-***Bermuda Atlantic Time series (BATS,  30 days)***. Activities.(1) Processing sampling for the analysis of biogeochemical parameters, and active participation in the deployment of deep sea mooring.(2) short intensive independent project (~ 3 month), where I have designed in collaboration with Dr. Michael Lomas, a bioassay experiment to investigate the effect of ocean acidification in the Redfield ratio. For this purpose, I have used conventional methods to collect, process, and quantify biogeochemical variables (i.e. alkalinity and carbonate chemistry, chlorophyll-a, nutrients (NO3- and PO4+, and POM). M. Lomas and collaborators used this preliminary data set as part of a project submitted to the National Science Foundation, USA (Source: Gerry Plumley, Director of CoE-NF POGO programme at BIOS).  
+***Bermuda Atlantic Time series (BATS,  30 days)***.
+- Processing sampling for the analysis of biogeochemical parameters, and active participation in the deployment of deep sea mooring. 
+- I conducted a short intensive independent project (~ 3 month), where I designed in collaboration with Dr. Michael Lomas, a bioassay experiment to investigate the effect of ocean acidification in the Redfield ratio. For this purpose, I used conventional methods to collect, process, and quantify biogeochemical variables (i.e. alkalinity and carbonate chemistry, chlorophyll-a, nutrients (nitrate, phosphate, and POM). Dr. Lomas and his collaborators used this preliminary data set as part of a project submitted to the National Science Foundation, USA (Source: Gerry Plumley, Director of CoE-NF POGO programme at BIOS).   
 
 
 <img align="left" src="BATS.png" width="750" height="180"> &nbsp;
 
 
-***Atmospheric deposition at the northeast of the anoxic Cariaco basin (3 months)***. Activities. Performing the best sampling location and strategy, to ultimately collect atmospheric samples and quantify atmospheric deposition of dissolved nutrients over the anoxic Cariaco basin (role: scientist leader).
-
+***Atmospheric deposition at the northeast of the anoxic Cariaco basin (3 months)***. Activities. Carrying out a selected strategy at the best sampling location to collect atmospheric samples and quantify atmospheric deposition of dissolved nutrients over the anoxic Cariaco basin (role: scientist leader).
 
 <img align="left" src="Atmosphera_Cariaco.png" width="750" height="180"> &nbsp;
 
 
-***Dissolved nitrogen loaded by tropical tributaries rivers (48 days over a time series of one year)***. Activities. Monthly measurements of the in-situ physicochemical parameters, and collecting samples for the analysis of dissolved nitrogen and carbon, and suspended organic matter (role: scientist leader). 
+***Dissolved nitrogen loaded by tropical rivers (48 days over a time series of one year)***. Activities. Monthly measurements of the in-situ physicochemical parameters, and collecting samples for the analysis of dissolved nitrogen and carbon, and suspended organic matter (role: scientist leader). 
 
 
 <img align="left" src="Rivers_Cariaco.png" width="750" height="180"> &nbsp;
 
 
-***GHG emitted from field corn (45 days)***. Daily in situ measurements of emissions of NO, N2O and CO2 from the soil. Collecting and processing soils samples for the analysis of physical and biogeochemical parameters. &nbsp;
+***-	GHG emitted from cornfield (45 days)***. Daily in situ measurements of emissions of NO, N2O and CO2 from soil. Collecting and processing soil samples for the analysis of physical and biogeochemical parameters. &nbsp;
 
 <img align="left" src="Guarico_2006.png" width="750" height="180"> &nbsp;
 
@@ -145,5 +149,5 @@ G. Dall'Olmo;  G. Ross, ***Rasse Boada R. J.*** and Strubinger P.A. 2021. Partic
 
 <img align="left" src="funding_AG.png" width="700" height="140"> &nbsp;
 
-#### Visualisations Credits 
+#### Illustration Credits
 AMT Program, BATS Program, CARIACO Ocean Time-Series Program, Victoria Cheung, Robert Brewing, Rodrigo Cab, Hervé Claustre, Giorgio Dall’Olmo, Fernanda Giannini, Adriana Guiliante, Thomas Jessin, José Lozano, Sorena Marquina, Megly Mendoza, N-NET, POGO, Antoine Poteau, Rafael Rasse, REFINE project, Avery Snyder, SOLAS, and Bess Ward. 
