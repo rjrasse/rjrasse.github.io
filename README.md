@@ -114,7 +114,7 @@ My research into different aspects of the Earth’s reservoir has led me to deve
 ***Dissolved nitrogen loaded by tropical rivers (48 days over a time series of one year)***. Activities. Monthly measurements of the in-situ physicochemical parameters, and collecting samples for the analysis of dissolved nitrogen and carbon, and suspended organic matter (role: scientist leader). 
 
 
-<img align="left" src="Rivers_Cariaco.png" width="750" height="180"> &nbsp;
+<img align="left" src="Rivers.png" width="750" height="180"> &nbsp;
 
 
 ***-	GHG emitted from cornfield (45 days)***. Daily in situ measurements of emissions of NO, N2O and CO2 from soil. Collecting and processing soil samples for the analysis of physical and biogeochemical parameters. &nbsp;
