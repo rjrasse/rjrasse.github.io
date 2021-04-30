@@ -32,7 +32,7 @@
 - Nippon Foundation-Partnership for Observation of the Global Ocean (NF-POGO) Centre of Excellence in Observational Oceanography (CoFe). Bermuda. 2011.
 - Third Surface Ocean Lower Atmosphere (SOLAS) Study. France.2007.
 
-<img align="left" src="website_training.png" width="750" height="130"> &nbsp;
+<img align="left" src="Training.png" width="750" height="130"> &nbsp;
 
 #### Graduate Courses (> 40 credits, Period: 2007-2012) ####
 
@@ -84,7 +84,7 @@ My research into different aspects of the Earth’s reservoir has led me to deve
 #### Deployment of Biogeochemical (BGC) Argo Floats, Field Work, and Cruise Expeditions ####
 <div style="text-align: justify"> Since the beginning of my career, I have been leading and participating in fieldwork to investigate biogeochemical cycles in the planet’s main reservoirs (i.e. land, ocean, rivers, and atmosphere) on local, regional, and global scales and over a continuum of timescales (from days to years). More recently, I have been involved in the deployment of BGC-Argo floats. </div>   
 
-***Deployment of BGC-Argo floats in the tropical OMZs***. Since 2014, I have been directly involved in coordinating the deployment of the first BGC-Argo floats in OMZs of the eastern tropical north Atlantic and north Pacific. More recently (2020), I deployed the first float attached with an underwater video profiler (UVP) along with an array of sensors that will allow me to generate key information on how diverse mechanisms modulate the cycles of C, O, and N. [video](https://github.com/rjrasse/rjrasse.github.io/blob/Rafael-Rasse/cts5-float-2nd-kixhffmg_LSDjZSZ4.mp4) &nbsp; 
+***Deployment of BGC-Argo floats in tropical OMZs***. Since 2014, I have been directly involved in coordinating the deployment of the first BGC-Argo floats in OMZs of the eastern tropical north Atlantic and north Pacific. More recently (2020), I deployed the first float attached with an underwater video profiler (UVP) along with an array of sensors that will allow me to generate key information on how diverse mechanisms modulate the cycles of C, O, and N. [video](https://github.com/rjrasse/rjrasse.github.io/blob/Rafael-Rasse/cts5-float-2nd-kixhffmg_LSDjZSZ4.mp4) &nbsp; 
 
 <img align="left" src="BGC_Floats.png" width="750" height="160"> &nbsp;
 
