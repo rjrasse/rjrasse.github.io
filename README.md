@@ -150,4 +150,4 @@ G. Dall'Olmo;  G. Ross, ***Rasse Boada R. J.*** and Strubinger P.A. 2021. Partic
 <img align="left" src="funding_AG.png" width="700" height="140"> &nbsp;
 
 #### Illustration Credits
-AMT Programme, BATS Programme, CARIACO Ocean Time-Series Programme, Victoria Cheung, Thomas Boniface, Robert Brewing, Rodrigo Cab, Hervé Claustre, Giorgio Dall’Olmo, Fernanda Giannini, Adriana Guiliante, Thomas Jessin, José Lozano, Sorena Marquina, Megly Mendoza, N-NET project, POGO, Antoine Poteau, Rafael Rasse, REFINE project, Avery Snyder, SOLAS, and Bess Ward. 
+AMT Programme, BATS Programme, CARIACO Ocean Time-Series Programme, Victoria Cheung, Thomas Boniface, Robert Brewin, Rodrigo Cab, Hervé Claustre, Giorgio Dall’Olmo, Fernanda Giannini, Adriana Guiliante, Thomas Jessin, José Lozano, Sorena Marquina, Megly Mendoza, N-NET project, POGO, Antoine Poteau, Rafael Rasse, REFINE project, Avery Snyder, SOLAS, and Bess Ward. 
